@@ -1,0 +1,20 @@
+{
+	x: -10.0d,
+	y: -3.0d,
+	dependencies: [
+		"92743db1"
+	],
+	tasks: [{
+		uid: "6d526f3a",
+		type: "item",
+		items: [{
+			item: "galaxyspace:adv_circuit_fabricator"
+		}]
+	}],
+	rewards: [{
+		uid: "4ebaf78f",
+		type: "item",
+		item: "galaxyspace:compressed_plates 1 1",
+		count: 16
+	}]
+}

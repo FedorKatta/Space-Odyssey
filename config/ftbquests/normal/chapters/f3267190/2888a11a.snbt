@@ -1,0 +1,23 @@
+{
+	x: -11.5d,
+	y: -5.0d,
+	shape: "hexagon",
+	dependencies: [
+		"e55d1282"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "8a15aeac",
+		type: "item",
+		items: [{
+			item: "galaxyspace:ceresblocks"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "8114553c",
+		type: "item",
+		item: "thermalfoundation:material 1 325",
+		count: 16
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: -5.5d,
+	y: 1.5d,
+	dependencies: [
+		"cd503983"
+	],
+	tasks: [{
+		uid: "22b108cc",
+		type: "item",
+		items: [{
+			item: "galaxyspace:rocket_modules 1 6"
+		}]
+	}],
+	rewards: [{
+		uid: "e6f653ee",
+		type: "item",
+		item: "galaxyspace:hdp",
+		count: 16
+	}]
+}

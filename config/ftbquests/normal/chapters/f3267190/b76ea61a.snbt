@@ -1,0 +1,21 @@
+{
+	x: -8.5d,
+	y: 1.5d,
+	dependencies: [
+		"ad1efb52"
+	],
+	tasks: [{
+		uid: "47ce1963",
+		type: "item",
+		items: [{
+			item: "galaxyspace:ioblocks 1 10"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "95e562ee",
+		type: "item",
+		item: "galaxyspace:hdp",
+		count: 16
+	}]
+}

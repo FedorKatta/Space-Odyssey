@@ -1,0 +1,21 @@
+{
+	x: -11.5d,
+	y: 3.0d,
+	dependencies: [
+		"b291e431"
+	],
+	tasks: [{
+		uid: "c0c72322",
+		type: "item",
+		items: [{
+			item: "galaxyspace:gs_basic 1 12"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "45a985c2",
+		type: "item",
+		item: "galacticraftplanets:basic_item_venus 1 3",
+		count: 8
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: -7.0d,
+	y: 3.0d,
+	dependencies: [
+		"ff1c7acd"
+	],
+	tasks: [{
+		uid: "bf1bd96e",
+		type: "item",
+		items: [{
+			item: "galaxyspace:thermal_padding_t3 1 2"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c45e567a",
+		type: "item",
+		item: "galacticraftplanets:basic_item_venus 1 3",
+		count: 4
+	}]
+}

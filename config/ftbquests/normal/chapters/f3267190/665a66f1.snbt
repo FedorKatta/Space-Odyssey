@@ -1,0 +1,21 @@
+{
+	x: -8.5d,
+	y: -5.0d,
+	dependencies: [
+		"9bb0299d"
+	],
+	tasks: [{
+		uid: "b0586881",
+		type: "item",
+		items: [{
+			item: "galaxyspace:dungeon_blocks"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "7f360907",
+		type: "item",
+		item: "thermalfoundation:material 1 325",
+		count: 16
+	}]
+}

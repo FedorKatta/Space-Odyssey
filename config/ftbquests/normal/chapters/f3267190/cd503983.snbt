@@ -1,0 +1,21 @@
+{
+	x: -7.0d,
+	y: 1.5d,
+	dependencies: [
+		"b76ea61a"
+	],
+	tasks: [{
+		uid: "0f48559c",
+		type: "item",
+		items: [{
+			item: "galaxyspace:dungeon_blocks 1 1"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "3b4e279f",
+		type: "item",
+		item: "galaxyspace:hdp",
+		count: 16
+	}]
+}
