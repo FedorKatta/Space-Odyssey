@@ -1,0 +1,24 @@
+{
+	x: -1.5d,
+	y: -0.5d,
+	dependencies: [
+		"4b98f02c"
+	],
+	tasks: [{
+		uid: "d5744000",
+		type: "item",
+		items: [{
+			id: "ic2:quantum_leggings",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "be3bf495",
+		type: "item",
+		item: "ic2:crafting 1 4",
+		count: 2
+	}]
+}

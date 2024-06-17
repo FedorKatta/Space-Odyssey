@@ -1,0 +1,22 @@
+{
+	x: -7.5d,
+	y: 2.5d,
+	dependencies: [
+		"cd569bee"
+	],
+	tasks: [{
+		uid: "552ada0b",
+		type: "item",
+		items: [{
+			id: "ic2:te",
+			tag: {},
+			Damage: 134s
+		}]
+	}],
+	rewards: [{
+		uid: "b099aa30",
+		type: "item",
+		item: "ic2:misc_resource 1 1",
+		count: 4
+	}]
+}

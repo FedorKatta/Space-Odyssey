@@ -1,0 +1,20 @@
+{
+	x: -4.5d,
+	y: 1.0d,
+	dependencies: [
+		"ffa402a0"
+	],
+	tasks: [{
+		uid: "eadfb081",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 49"
+		}]
+	}],
+	rewards: [{
+		uid: "4bdbcd9d",
+		type: "item",
+		item: "ic2:filled_tin_can",
+		count: 16
+	}]
+}

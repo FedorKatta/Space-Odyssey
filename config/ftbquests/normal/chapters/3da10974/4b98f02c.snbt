@@ -1,0 +1,27 @@
+{
+	x: -3.0d,
+	y: -0.5d,
+	dependencies: [
+		"3ab5a684"
+	],
+	tasks: [{
+		uid: "9c4abf2a",
+		type: "item",
+		items: [{
+			id: "ic2:quantum_chestplate",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "020616c7",
+		type: "item",
+		item: {
+			id: "ic2:lapotron_crystal",
+			tag: {},
+			Damage: 26s
+		}
+	}]
+}

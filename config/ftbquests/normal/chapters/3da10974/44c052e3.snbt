@@ -1,0 +1,22 @@
+{
+	x: -7.5d,
+	y: -2.0d,
+	dependencies: [
+		"cbffa00e"
+	],
+	tasks: [{
+		uid: "3eae4254",
+		type: "item",
+		items: [{
+			id: "ic2:te",
+			tag: {},
+			Damage: 132s
+		}]
+	}],
+	rewards: [{
+		uid: "0db6f37e",
+		type: "item",
+		item: "ic2:crafting 1 2",
+		count: 2
+	}]
+}

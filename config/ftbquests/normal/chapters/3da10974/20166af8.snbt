@@ -1,0 +1,21 @@
+{
+	x: -3.0d,
+	y: -3.5d,
+	dependencies: [
+		"874e7b7c"
+	],
+	tasks: [{
+		uid: "4eed5f4d",
+		type: "item",
+		items: [{
+			item: "ic2:foam_sprayer"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8ea12800",
+		type: "item",
+		item: "ic2:ingot",
+		count: 4
+	}]
+}
