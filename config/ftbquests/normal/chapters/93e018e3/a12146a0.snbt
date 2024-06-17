@@ -1,0 +1,27 @@
+{
+	x: 7.0d,
+	y: -8.0d,
+	dependencies: [
+		"f8097233"
+	],
+	tasks: [{
+		uid: "5bae1b3e",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:dynamo",
+			tag: {
+				RSControl: 0b,
+				Facing: 1b,
+				Energy: 0,
+				Level: 0b
+			},
+			Damage: 3s
+		}]
+	}],
+	rewards: [{
+		uid: "acd501ba",
+		type: "item",
+		item: "ic2:dust 1 5",
+		count: 8
+	}]
+}

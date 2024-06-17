@@ -1,0 +1,23 @@
+{
+	x: -11.0d,
+	y: -11.5d,
+	dependencies: [
+		"af4a6774"
+	],
+	tasks: [{
+		uid: "b708cfc9",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 288"
+		}]
+	}],
+	rewards: [{
+		uid: "ecf0260b",
+		type: "item",
+		item: {
+			id: "ic2:te",
+			tag: {},
+			Damage: 133s
+		}
+	}]
+}

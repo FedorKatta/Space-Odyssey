@@ -1,0 +1,24 @@
+{
+	x: -8.0d,
+	y: -13.0d,
+	dependencies: [
+		"2af29de9"
+	],
+	tasks: [{
+		uid: "e95fbd21",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 295"
+		}]
+	}],
+	rewards: [{
+		uid: "46fbda6a",
+		type: "item",
+		item: {
+			id: "ic2:energy_crystal",
+			tag: {},
+			Damage: 26s
+		},
+		count: 2
+	}]
+}

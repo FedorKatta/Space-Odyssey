@@ -1,0 +1,21 @@
+{
+	x: -12.5d,
+	y: -2.5d,
+	dependencies: [
+		"acd23435"
+	],
+	tasks: [{
+		uid: "77f4e3d3",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 102"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "0f169041",
+		type: "item",
+		item: "thermalfoundation:material 1 166",
+		count: 4
+	}]
+}

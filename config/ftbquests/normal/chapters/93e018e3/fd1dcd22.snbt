@@ -1,0 +1,39 @@
+{
+	x: 2.5d,
+	y: -9.5d,
+	dependencies: [
+		"da2052f9"
+	],
+	tasks: [{
+		uid: "b68e810b",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:device",
+			tag: {
+				RSControl: 0b,
+				Facing: 3b,
+				Energy: 0,
+				SideCache: [B;
+					1b,
+					1b,
+					2b,
+					2b,
+					2b,
+					2b
+				]
+			},
+			Damage: 3s
+		}]
+	}],
+	rewards: [{
+		uid: "1331c32a",
+		type: "item",
+		item: {
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "resin",
+				Amount: 1000
+			}
+		}
+	}]
+}

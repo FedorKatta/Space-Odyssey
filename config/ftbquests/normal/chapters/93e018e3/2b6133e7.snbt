@@ -1,0 +1,20 @@
+{
+	x: -12.5d,
+	y: -13.0d,
+	shape: "circle",
+	dependencies: [
+		"af4a6774"
+	],
+	tasks: [{
+		uid: "26efceb2",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 264"
+		}]
+	}],
+	rewards: [{
+		uid: "a563f213",
+		type: "item",
+		item: "ic2:crafting 1 2"
+	}]
+}

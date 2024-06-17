@@ -1,0 +1,21 @@
+{
+	x: -11.0d,
+	y: -2.5d,
+	dependencies: [
+		"d68e5606"
+	],
+	tasks: [{
+		uid: "cea58741",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 103"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "3528377a",
+		type: "item",
+		item: "minecraft:ender_pearl",
+		count: 8
+	}]
+}

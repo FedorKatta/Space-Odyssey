@@ -1,0 +1,31 @@
+{
+	x: -11.0d,
+	y: -8.5d,
+	dependencies: [
+		"fda07007"
+	],
+	tasks: [{
+		uid: "db329650",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "gearIron",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any gearIron"
+				}
+			}
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "32425ab1",
+		type: "item",
+		item: "ic2:crafting 1 2"
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	x: -6.5d,
+	y: -6.5d,
+	shape: "hexagon",
+	dependencies: [
+		"c3e147ce"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "841db031",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:frame"
+		}]
+	}],
+	rewards: [{
+		uid: "28437bcb",
+		type: "item",
+		item: "minecraft:iron_ingot",
+		count: 16
+	}]
+}

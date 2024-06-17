@@ -1,0 +1,21 @@
+{
+	x: -6.5d,
+	y: -10.0d,
+	dependencies: [
+		"8b51c5a1"
+	],
+	tasks: [{
+		uid: "52865ec7",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 261"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "4dfeb240",
+		type: "item",
+		item: "galaxyspace:gsores 1 1",
+		count: 16
+	}]
+}

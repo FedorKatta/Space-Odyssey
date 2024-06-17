@@ -1,0 +1,30 @@
+{
+	x: 10.0d,
+	y: -8.0d,
+	dependencies: [
+		"73ba202a"
+	],
+	tasks: [{
+		uid: "983d38cb",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:dynamo",
+			tag: {
+				RSControl: 0b,
+				Facing: 1b,
+				Energy: 0,
+				Level: 0b
+			},
+			Damage: 5s
+		}]
+	}],
+	rewards: [{
+		uid: "c05b0c50",
+		type: "item",
+		item: {
+			id: "ic2:nano_saber",
+			tag: {},
+			Damage: 26s
+		}
+	}]
+}

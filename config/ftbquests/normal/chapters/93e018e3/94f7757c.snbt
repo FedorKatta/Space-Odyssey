@@ -1,0 +1,42 @@
+{
+	x: 2.5d,
+	y: -5.0d,
+	dependencies: [
+		"55fa9839"
+	],
+	tasks: [{
+		uid: "b804f986",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:cell",
+			tag: {
+				Recv: 1000,
+				RSControl: 0b,
+				Facing: 3b,
+				Energy: 0,
+				SideCache: [B;
+					2b,
+					1b,
+					1b,
+					1b,
+					1b,
+					1b
+				],
+				Level: 0b,
+				Send: 1000
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "05d322a6",
+		type: "item",
+		item: {
+			id: "ic2:re_battery",
+			tag: {
+				charge: 10000.0d
+			}
+		},
+		count: 4
+	}]
+}

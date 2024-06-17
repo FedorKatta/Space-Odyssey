@@ -1,0 +1,35 @@
+{
+	x: -3.5d,
+	y: -8.0d,
+	dependencies: [
+		"7658940f"
+	],
+	tasks: [{
+		uid: "79876df8",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:machine",
+			tag: {
+				RSControl: 0b,
+				Facing: 3b,
+				Energy: 0,
+				SideCache: [B;
+					1b,
+					1b,
+					2b,
+					2b,
+					2b,
+					2b
+				],
+				Level: 0b
+			},
+			Damage: 5s
+		}]
+	}],
+	rewards: [{
+		uid: "862436fb",
+		type: "item",
+		item: "thermalfoundation:material 1 352",
+		count: 4
+	}]
+}

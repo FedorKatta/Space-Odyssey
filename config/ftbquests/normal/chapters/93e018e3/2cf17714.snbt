@@ -1,0 +1,19 @@
+{
+	x: -6.5d,
+	y: -11.5d,
+	dependencies: [
+		"cd997507"
+	],
+	tasks: [{
+		uid: "39ddb63b",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 292"
+		}]
+	}],
+	rewards: [{
+		uid: "a4048478",
+		type: "item",
+		item: "ic2:crafting 1 1"
+	}]
+}

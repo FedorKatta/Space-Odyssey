@@ -1,0 +1,32 @@
+{
+	x: -9.5d,
+	y: -8.5d,
+	dependencies: [
+		"c36a98a9"
+	],
+	tasks: [{
+		uid: "f51d7206",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "gearGold",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any gearGold"
+				}
+			}
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "587b0c16",
+		type: "item",
+		item: "minecraft:golden_carrot",
+		count: 16
+	}]
+}

@@ -1,0 +1,30 @@
+{
+	x: 8.5d,
+	y: -8.0d,
+	dependencies: [
+		"a12146a0"
+	],
+	tasks: [{
+		uid: "6d54126f",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:dynamo",
+			tag: {
+				RSControl: 0b,
+				Facing: 1b,
+				Energy: 0,
+				Level: 0b
+			},
+			Damage: 4s
+		}]
+	}],
+	rewards: [{
+		uid: "463a8bb4",
+		type: "item",
+		item: {
+			id: "ic2:mining_laser",
+			tag: {},
+			Damage: 26s
+		}
+	}]
+}

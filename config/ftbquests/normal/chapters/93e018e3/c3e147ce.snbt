@@ -1,0 +1,31 @@
+{
+	x: -6.5d,
+	y: -8.5d,
+	dependencies: [
+		"cd94cf41"
+	],
+	tasks: [{
+		uid: "23f7fb3a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "gearTin",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any gearTin"
+				}
+			}
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "ffb7b775",
+		type: "item",
+		item: "thermalfoundation:material 1 134"
+	}]
+}

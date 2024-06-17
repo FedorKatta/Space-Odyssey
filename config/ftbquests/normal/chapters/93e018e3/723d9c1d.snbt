@@ -1,0 +1,30 @@
+{
+	x: 2.5d,
+	y: -8.0d,
+	dependencies: [
+		"4fedcffd"
+	],
+	tasks: [{
+		uid: "9bde7430",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:dynamo",
+			tag: {
+				RSControl: 0b,
+				Facing: 1b,
+				Energy: 0,
+				Level: 0b
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "2aa31945",
+		type: "item",
+		item: {
+			id: "ic2:electric_hoe",
+			tag: {
+				charge: 10000.0d
+			}
+		}
+	}]
+}

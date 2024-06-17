@@ -1,0 +1,38 @@
+{
+	x: -12.5d,
+	y: -10.0d,
+	dependencies: [
+		"fda07007"
+	],
+	tasks: [{
+		uid: "b6a6e0f8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "gearCopper",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any gearCopper"
+				}
+			}
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "48a60428",
+		type: "item",
+		item: {
+			id: "ic2:cable",
+			tag: {
+				type: 0b,
+				insulation: 1b
+			}
+		},
+		count: 16
+	}]
+}

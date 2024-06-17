@@ -1,0 +1,32 @@
+{
+	x: -12.5d,
+	y: -8.5d,
+	dependencies: [
+		"e13448bd"
+	],
+	tasks: [{
+		uid: "47105396",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "gearStone",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any gearStone"
+				}
+			}
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "e78e48dc",
+		type: "item",
+		item: "minecraft:cobblestone",
+		count: 4
+	}]
+}
