@@ -1,0 +1,22 @@
+{
+	x: -5.5d,
+	y: -6.0d,
+	dependencies: [
+		"d7e91803"
+	],
+	tasks: [{
+		uid: "02cb2b5c",
+		type: "item",
+		items: [{
+			item: "draconicevolution:wyvern_bow"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "bfe163bb",
+		type: "item",
+		item: "draconicevolution:draconium_block",
+		count: 8
+	}]
+}

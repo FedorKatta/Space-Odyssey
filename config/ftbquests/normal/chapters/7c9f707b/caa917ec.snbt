@@ -1,0 +1,28 @@
+{
+	x: -2.5d,
+	y: 1.5d,
+	dependencies: [
+		"b420e169"
+	],
+	tasks: [{
+		uid: "fef49b00",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 27,
+					Items: []
+				}
+			},
+			id: "draconicevolution:draconic_staff_of_power"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b6962241",
+		type: "item",
+		item: "draconicevolution:awakened_core",
+		count: 2
+	}]
+}

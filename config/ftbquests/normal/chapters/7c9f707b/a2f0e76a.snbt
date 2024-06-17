@@ -1,0 +1,24 @@
+{
+	x: -10.0d,
+	y: -1.5d,
+	shape: "hexagon",
+	dependencies: [
+		"c4052ea7"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "b0b60cda",
+		type: "item",
+		items: [{
+			item: "draconicevolution:crafting_injector 1 1"
+		}],
+		count: 12L
+	}],
+	rewards: [{
+		uid: "7f7efca7",
+		type: "item",
+		team_reward: true,
+		item: "draconicevolution:wyvern_core",
+		count: 16
+	}]
+}

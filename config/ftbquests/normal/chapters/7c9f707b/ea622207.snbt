@@ -1,0 +1,28 @@
+{
+	x: -2.5d,
+	y: -6.0d,
+	dependencies: [
+		"62367a22"
+	],
+	tasks: [{
+		uid: "3aae2f3a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 9,
+					Items: []
+				}
+			},
+			id: "draconicevolution:wyvern_shovel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "82c92974",
+		type: "item",
+		item: "minecraft:skull 1 1",
+		count: 3
+	}]
+}

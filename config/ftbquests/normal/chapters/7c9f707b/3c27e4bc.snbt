@@ -1,0 +1,22 @@
+{
+	x: -8.5d,
+	y: -4.5d,
+	dependencies: [
+		"b11bae5b"
+	],
+	tasks: [{
+		uid: "78995120",
+		type: "item",
+		items: [{
+			item: "draconicevolution:wyvern_helm"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "4fd6f7df",
+		type: "item",
+		item: "minecraft:blaze_rod",
+		count: 8
+	}]
+}

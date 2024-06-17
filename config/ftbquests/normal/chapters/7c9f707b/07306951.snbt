@@ -1,0 +1,21 @@
+{
+	x: -5.5d,
+	y: -1.5d,
+	dependencies: [
+		"d3079f62"
+	],
+	tasks: [{
+		uid: "01734a3f",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconium_capacitor 1 1"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a5a1af2a",
+		type: "item",
+		team_reward: true,
+		item: "draconicevolution:awakened_core"
+	}]
+}

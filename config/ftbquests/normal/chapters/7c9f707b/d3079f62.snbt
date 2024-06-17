@@ -1,0 +1,22 @@
+{
+	x: -7.0d,
+	y: -1.5d,
+	dependencies: [
+		"e7493c78"
+	],
+	tasks: [{
+		uid: "da2fe6a0",
+		type: "item",
+		items: [{
+			item: "draconicevolution:awakened_core"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "badccc03",
+		type: "item",
+		team_reward: true,
+		item: "minecraft:skull 1 1",
+		count: 48
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	x: -10.0d,
+	y: 3.0d,
+	dependencies: [
+		"b0e0ccf7"
+	],
+	tasks: [{
+		uid: "1e39bfab",
+		type: "item",
+		items: [{
+			item: "draconicevolution:chaos_shard"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "4b99a906",
+		type: "item",
+		team_reward: true,
+		item: "draconicevolution:awakened_core",
+		count: 32
+	}]
+}

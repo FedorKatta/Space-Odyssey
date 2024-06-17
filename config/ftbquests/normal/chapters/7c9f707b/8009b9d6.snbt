@@ -1,0 +1,22 @@
+{
+	x: -7.0d,
+	y: 7.5d,
+	dependencies: [
+		"82d6b3d1"
+	],
+	tasks: [{
+		uid: "749bb2a0",
+		type: "item",
+		items: [{
+			item: "draconicadditions:inertia_cancel_ring"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ac9e8ab9",
+		type: "item",
+		item: "draconicevolution:wyvern_core",
+		count: 4
+	}]
+}

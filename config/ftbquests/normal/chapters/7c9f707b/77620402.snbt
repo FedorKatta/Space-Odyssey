@@ -1,0 +1,21 @@
+{
+	x: -11.5d,
+	y: -3.0d,
+	dependencies: [
+		"db90fdf1"
+	],
+	tasks: [{
+		uid: "4c881de7",
+		type: "item",
+		items: [{
+			item: "draconicevolution:grinder"
+		}]
+	}],
+	rewards: [{
+		uid: "552587b0",
+		type: "item",
+		team_reward: true,
+		item: "minecraft:skull 1 1",
+		count: 3
+	}]
+}

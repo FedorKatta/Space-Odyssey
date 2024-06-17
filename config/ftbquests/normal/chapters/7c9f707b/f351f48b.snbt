@@ -1,0 +1,22 @@
+{
+	x: -7.0d,
+	y: -3.0d,
+	dependencies: [
+		"ade44005"
+	],
+	tasks: [{
+		uid: "b41930a5",
+		type: "item",
+		items: [{
+			item: "draconicevolution:crystal_binder"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "622bcb72",
+		type: "item",
+		item: "draconicevolution:wyvern_core",
+		count: 2
+	}]
+}

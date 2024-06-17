@@ -1,0 +1,21 @@
+{
+	x: -10.0d,
+	y: 0.0d,
+	dependencies: [
+		"a2f0e76a"
+	],
+	tasks: [{
+		uid: "3521eb12",
+		type: "item",
+		items: [{
+			item: "draconicevolution:ender_energy_manipulator"
+		}]
+	}],
+	rewards: [{
+		uid: "b22e2fd9",
+		type: "item",
+		team_reward: true,
+		item: "draconicevolution:draconic_block",
+		count: 4
+	}]
+}

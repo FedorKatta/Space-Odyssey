@@ -1,0 +1,21 @@
+{
+	x: -2.5d,
+	y: 6.0d,
+	dependencies: [
+		"0dbd78ff"
+	],
+	tasks: [{
+		uid: "1fbcbefc",
+		type: "item",
+		items: [{
+			item: "draconicadditions:chaos_stabilizer_core"
+		}]
+	}],
+	rewards: [{
+		uid: "7d87c768",
+		type: "item",
+		team_reward: true,
+		item: "draconicevolution:chaotic_core",
+		count: 4
+	}]
+}

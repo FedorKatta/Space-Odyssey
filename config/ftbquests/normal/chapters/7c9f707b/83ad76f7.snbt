@@ -1,0 +1,22 @@
+{
+	x: -2.5d,
+	y: 7.5d,
+	dependencies: [
+		"2c011931"
+	],
+	tasks: [{
+		uid: "3fbf8fe8",
+		type: "item",
+		items: [{
+			item: "draconicadditions:draconic_shield_necklace"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9603b0c2",
+		type: "item",
+		item: "draconicevolution:wyvern_core",
+		count: 4
+	}]
+}

@@ -1,0 +1,107 @@
+{
+	title: "Your task is to build energy core tier 8",
+	x: -10.0d,
+	y: 10.5d,
+	shape: "hexagon",
+	dependencies: [
+		"1d2f36aa"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "af00e09c",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconium_block"
+		}],
+		count: 64L
+	},
+	{
+		uid: "2edffd5b",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconium_block"
+		}],
+		count: 64L
+	},
+	{
+		uid: "3674df96",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconium_block"
+		}],
+		count: 64L
+	},
+	{
+		uid: "6cd3eac6",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconium_block"
+		}],
+		count: 64L
+	},
+	{
+		uid: "c975deab",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconium_block"
+		}],
+		count: 64L
+	},
+	{
+		uid: "a24f8817",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconium_block"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "a0aaad70",
+		type: "item",
+		team_reward: true,
+		item: "draconicevolution:draconium_block",
+		count: 64
+	},
+	{
+		uid: "86885d60",
+		type: "item",
+		team_reward: true,
+		item: "draconicevolution:draconium_block",
+		count: 64
+	},
+	{
+		uid: "9374e969",
+		type: "item",
+		team_reward: true,
+		item: "draconicevolution:draconium_block",
+		count: 64
+	},
+	{
+		uid: "cb00dd77",
+		type: "item",
+		team_reward: true,
+		item: "draconicevolution:draconium_block",
+		count: 64
+	},
+	{
+		uid: "b3977def",
+		type: "item",
+		team_reward: true,
+		item: "draconicevolution:draconium_block",
+		count: 64
+	},
+	{
+		uid: "ce14e88a",
+		type: "item",
+		team_reward: true,
+		item: "draconicevolution:draconium_block",
+		count: 64
+	},
+	{
+		uid: "d30c2baa",
+		type: "item",
+		team_reward: true,
+		item: "draconicevolution:draconium_block",
+		count: 32
+	}]
+}

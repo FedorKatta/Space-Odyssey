@@ -1,0 +1,29 @@
+{
+	x: -10.0d,
+	y: 4.5d,
+	dependencies: [
+		"f955e717"
+	],
+	tasks: [{
+		uid: "4445bd06",
+		type: "item",
+		items: [{
+			item: "draconicevolution:chaotic_core"
+		}],
+		count: 12L
+	}],
+	rewards: [{
+		uid: "108a972f",
+		type: "item",
+		team_reward: true,
+		item: "draconicevolution:ender_energy_manipulator",
+		count: 8
+	},
+	{
+		uid: "6e58ed6b",
+		type: "item",
+		team_reward: true,
+		item: "draconicevolution:ender_energy_manipulator",
+		count: 8
+	}]
+}

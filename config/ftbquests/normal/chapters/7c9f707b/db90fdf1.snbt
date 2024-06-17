@@ -1,0 +1,35 @@
+{
+	x: -11.5d,
+	y: -4.5d,
+	dependencies: [
+		"d72ec939"
+	],
+	tasks: [{
+		uid: "b09f04fd",
+		type: "item",
+		items: [{
+			id: "thermalexpansion:device",
+			tag: {
+				RSControl: 0b,
+				Facing: 3b,
+				Energy: 0,
+				SideCache: [B;
+					0b,
+					1b,
+					0b,
+					0b,
+					0b,
+					0b
+				]
+			},
+			Damage: 12s
+		}]
+	}],
+	rewards: [{
+		uid: "1236fc6e",
+		type: "item",
+		team_reward: true,
+		item: "minecraft:skull 1 1",
+		count: 3
+	}]
+}

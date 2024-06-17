@@ -1,0 +1,20 @@
+{
+	x: -10.0d,
+	y: -6.0d,
+	dependencies: [
+		"d72ec939"
+	],
+	tasks: [{
+		uid: "8a607184",
+		type: "item",
+		items: [{
+			item: "draconicevolution:wyvern_core"
+		}]
+	}],
+	rewards: [{
+		uid: "5875cbe8",
+		type: "item",
+		item: "minecraft:skull 1 1",
+		count: 3
+	}]
+}

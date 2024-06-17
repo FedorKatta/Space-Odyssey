@@ -1,0 +1,22 @@
+{
+	x: -4.0d,
+	y: 7.5d,
+	dependencies: [
+		"6283849e"
+	],
+	tasks: [{
+		uid: "4b590e67",
+		type: "item",
+		items: [{
+			item: "draconicadditions:overload_belt"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e835f195",
+		type: "item",
+		item: "draconicevolution:wyvern_core",
+		count: 4
+	}]
+}

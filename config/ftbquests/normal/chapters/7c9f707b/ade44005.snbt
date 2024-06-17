@@ -1,0 +1,27 @@
+{
+	x: -8.5d,
+	y: -3.0d,
+	dependencies: [
+		"c4052ea7"
+	],
+	tasks: [{
+		uid: "7d9417e5",
+		type: "item",
+		items: [{
+			item: "draconicevolution:energy_pylon"
+		}],
+		count: 2L
+	}],
+	rewards: [{
+		uid: "dc0a6ad9",
+		type: "item",
+		item: {
+			id: "minecraft:paper",
+			tag: {
+				display: {
+					Name: "Place glass block on pylon to use"
+				}
+			}
+		}
+	}]
+}

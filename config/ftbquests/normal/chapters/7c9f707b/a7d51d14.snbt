@@ -1,0 +1,21 @@
+{
+	x: -10.0d,
+	y: -4.5d,
+	dependencies: [
+		"8b7dc638"
+	],
+	tasks: [{
+		uid: "43963e17",
+		type: "item",
+		items: [{
+			item: "draconicevolution:energy_storage_core"
+		}]
+	}],
+	rewards: [{
+		uid: "5dfdf46e",
+		type: "item",
+		team_reward: true,
+		item: "draconicevolution:draconium_block",
+		count: 32
+	}]
+}

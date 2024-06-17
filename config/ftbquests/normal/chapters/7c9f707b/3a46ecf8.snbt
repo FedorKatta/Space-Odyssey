@@ -1,0 +1,28 @@
+{
+	x: -10.0d,
+	y: 7.5d,
+	dependencies: [
+		"a62cef8c"
+	],
+	tasks: [{
+		uid: "585eefe1",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					Size: 36,
+					Items: []
+				}
+			},
+			id: "draconicadditions:chaotic_staff_of_power"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ae7b4ffa",
+		type: "item",
+		item: "draconicevolution:draconic_block",
+		count: 4
+	}]
+}

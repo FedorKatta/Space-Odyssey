@@ -1,0 +1,22 @@
+{
+	x: -1.0d,
+	y: 6.0d,
+	dependencies: [
+		"f8b843d6"
+	],
+	tasks: [{
+		uid: "6832a820",
+		type: "item",
+		items: [{
+			item: "draconicevolution:infused_obsidian"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "31fc193e",
+		type: "item",
+		team_reward: true,
+		item: "draconicevolution:draconic_block",
+		count: 4
+	}]
+}

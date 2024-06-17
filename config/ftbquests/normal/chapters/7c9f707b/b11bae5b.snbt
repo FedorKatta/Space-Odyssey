@@ -1,0 +1,29 @@
+{
+	x: -8.5d,
+	y: -6.0d,
+	dependencies: [
+		"8b7dc638"
+	],
+	tasks: [{
+		uid: "6685b7b7",
+		type: "item",
+		items: [{
+			item: "draconicevolution:wyvern_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "cc9da391",
+		type: "item",
+		item: {
+			id: "minecraft:enchanted_book",
+			tag: {
+				StoredEnchantments: [{
+					lvl: 5s,
+					id: 11s
+				}]
+			}
+		}
+	}]
+}

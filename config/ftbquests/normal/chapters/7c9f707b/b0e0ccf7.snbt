@@ -1,0 +1,24 @@
+{
+	x: -10.0d,
+	y: 1.5d,
+	shape: "hexagon",
+	dependencies: [
+		"4726b33c"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "eca83c3e",
+		type: "item",
+		items: [{
+			item: "draconicevolution:crafting_injector 1 2"
+		}],
+		count: 12L
+	}],
+	rewards: [{
+		uid: "31faa96d",
+		type: "item",
+		team_reward: true,
+		item: "draconicevolution:draconic_block",
+		count: 4
+	}]
+}

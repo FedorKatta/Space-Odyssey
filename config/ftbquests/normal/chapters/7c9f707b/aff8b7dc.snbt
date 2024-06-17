@@ -1,0 +1,22 @@
+{
+	x: -8.5d,
+	y: 9.0d,
+	dependencies: [
+		"1d2f36aa"
+	],
+	tasks: [{
+		uid: "1382d518",
+		type: "item",
+		items: [{
+			item: "draconicadditions:chaotic_chest"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "698df5e6",
+		type: "item",
+		item: "draconicevolution:draconic_block",
+		count: 4
+	}]
+}

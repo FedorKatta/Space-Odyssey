@@ -1,0 +1,20 @@
+{
+	x: -11.5d,
+	y: -6.0d,
+	dependencies: [
+		"bd982a44"
+	],
+	tasks: [{
+		uid: "35ae0101",
+		type: "item",
+		items: [{
+			item: "draconicevolution:fusion_crafting_core"
+		}]
+	}],
+	rewards: [{
+		uid: "849c7fa0",
+		type: "item",
+		item: "minecraft:skull 1 1",
+		count: 3
+	}]
+}

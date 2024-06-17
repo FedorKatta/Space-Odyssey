@@ -1,0 +1,22 @@
+{
+	x: -7.0d,
+	y: 3.0d,
+	dependencies: [
+		"9c6ee88d"
+	],
+	tasks: [{
+		uid: "9903e065",
+		type: "item",
+		items: [{
+			item: "draconicevolution:draconic_chest"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "fcb33b8d",
+		type: "item",
+		team_reward: true,
+		item: "draconicevolution:awakened_core"
+	}]
+}

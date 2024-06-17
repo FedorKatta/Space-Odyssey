@@ -1,0 +1,24 @@
+{
+	title: "Tier 8 energy core",
+	x: -7.0d,
+	y: 10.5d,
+	text: [
+		"Click on the tier 8 energy core to complete"
+	],
+	dependencies: [
+		"ffb74277"
+	],
+	tasks: [{
+		uid: "7effae41",
+		type: "interaction",
+		icon: "draconicevolution:reactor_core",
+		match_type: "block_id",
+		match: "draconicevolution:invis_e_core_block"
+	}],
+	rewards: [{
+		uid: "b3075f76",
+		type: "item",
+		team_reward: true,
+		item: "draconicevolution:creative_exchanger"
+	}]
+}

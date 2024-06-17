@@ -1,0 +1,20 @@
+{
+	x: -5.5d,
+	y: 6.0d,
+	dependencies: [
+		"2b50839b"
+	],
+	tasks: [{
+		uid: "e635b42b",
+		type: "item",
+		items: [{
+			item: "draconicevolution:flow_gate"
+		}]
+	}],
+	rewards: [{
+		uid: "6520be45",
+		type: "item",
+		item: "draconicevolution:wyvern_core",
+		count: 2
+	}]
+}
