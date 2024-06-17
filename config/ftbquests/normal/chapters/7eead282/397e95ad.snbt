@@ -1,0 +1,21 @@
+{
+	x: -11.0d,
+	y: -11.0d,
+	dependencies: [
+		"cd661635"
+	],
+	tasks: [{
+		uid: "efc823b6",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond_hoe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1fd412db",
+		type: "item",
+		item: "betterbuilderswands:wanddiamond"
+	}]
+}

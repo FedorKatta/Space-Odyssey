@@ -1,0 +1,19 @@
+{
+	x: -18.5d,
+	y: -8.0d,
+	dependencies: [
+		"40024de0"
+	],
+	tasks: [{
+		uid: "266b53d8",
+		type: "item",
+		items: [{
+			item: "minecraft:anvil"
+		}]
+	}],
+	rewards: [{
+		uid: "6b251f5a",
+		type: "item",
+		item: "minecraft:iron_block"
+	}]
+}

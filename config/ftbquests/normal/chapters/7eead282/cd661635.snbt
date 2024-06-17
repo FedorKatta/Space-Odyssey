@@ -1,0 +1,22 @@
+{
+	x: -12.5d,
+	y: -11.0d,
+	dependencies: [
+		"5b35275a"
+	],
+	tasks: [{
+		uid: "ed30e07b",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond_axe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "df92334b",
+		type: "item",
+		item: "minecraft:obsidian",
+		count: 20
+	}]
+}

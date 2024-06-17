@@ -1,0 +1,22 @@
+{
+	x: -14.0d,
+	y: -9.5d,
+	dependencies: [
+		"4656d637"
+	],
+	tasks: [{
+		uid: "be93ad64",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "fdfd981f",
+		type: "item",
+		item: "minecraft:diamond",
+		count: 3
+	}]
+}

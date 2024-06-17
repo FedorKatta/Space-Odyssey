@@ -1,0 +1,22 @@
+{
+	x: -17.0d,
+	y: -8.0d,
+	shape: "hexagon",
+	dependencies: [
+		"bbc537a6"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "2d676e21",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond"
+		}],
+		count: 5L
+	}],
+	rewards: [{
+		uid: "824418ae",
+		type: "item",
+		item: "minecraft:diamond_pickaxe"
+	}]
+}

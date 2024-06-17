@@ -1,0 +1,21 @@
+{
+	x: -15.5d,
+	y: -11.0d,
+	dependencies: [
+		"d6c9d234"
+	],
+	tasks: [{
+		uid: "dd4127b8",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond_shovel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0d43f938",
+		type: "item",
+		item: "thermalfoundation:tool.bow_diamond"
+	}]
+}

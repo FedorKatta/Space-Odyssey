@@ -1,0 +1,22 @@
+{
+	x: -17.0d,
+	y: -11.0d,
+	dependencies: [
+		"e0c4cd54"
+	],
+	tasks: [{
+		uid: "ec989e5d",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "161a8785",
+		type: "item",
+		item: "ic2:dust 1 5",
+		count: 10
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	x: -15.5d,
+	y: -14.0d,
+	dependencies: [
+		"b0eaf5ad"
+	],
+	tasks: [{
+		uid: "89d771f9",
+		type: "item",
+		items: [{
+			item: "divinerpg:arlemite_shickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d4f93cec",
+		type: "item",
+		item: "divinerpg:arlemite_ingot",
+		count: 8
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: -20.0d,
+	y: -5.0d,
+	dependencies: [
+		"cf70e5d2"
+	],
+	tasks: [{
+		uid: "7b3d6e76",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_shovel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "38071b3a",
+		type: "item",
+		item: "thermalfoundation:tool.fishing_rod_iron"
+	}]
+}

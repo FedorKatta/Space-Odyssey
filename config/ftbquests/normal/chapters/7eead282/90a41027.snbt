@@ -1,0 +1,21 @@
+{
+	x: -17.0d,
+	y: -12.5d,
+	dependencies: [
+		"d6c9d234"
+	],
+	tasks: [{
+		uid: "0c835072",
+		type: "item",
+		items: [{
+			item: "divinerpg:realmite_ingot"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "dea7f2a3",
+		type: "item",
+		item: "divinerpg:corrupted_stone",
+		count: 4
+	}]
+}

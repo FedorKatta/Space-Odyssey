@@ -1,0 +1,21 @@
+{
+	x: -14.0d,
+	y: -11.0d,
+	dependencies: [
+		"e8cc6e94"
+	],
+	tasks: [{
+		uid: "87171e3d",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "99beade5",
+		type: "item",
+		item: "ironchest:iron_chest 1 2"
+	}]
+}

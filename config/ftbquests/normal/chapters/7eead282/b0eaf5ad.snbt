@@ -1,0 +1,21 @@
+{
+	x: -17.0d,
+	y: -14.0d,
+	dependencies: [
+		"90a41027"
+	],
+	tasks: [{
+		uid: "3d9df1ff",
+		type: "item",
+		items: [{
+			item: "divinerpg:arlemite_ingot"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "685f8d8f",
+		type: "item",
+		item: "divinerpg:arlemite_ingot",
+		count: 4
+	}]
+}

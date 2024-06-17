@@ -1,0 +1,22 @@
+{
+	x: -15.5d,
+	y: -15.5d,
+	dependencies: [
+		"b2729178"
+	],
+	tasks: [{
+		uid: "4850b591",
+		type: "item",
+		items: [{
+			item: "divinerpg:rupee_shickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "4d7dca05",
+		type: "item",
+		item: "divinerpg:rupee_ingot",
+		count: 8
+	}]
+}

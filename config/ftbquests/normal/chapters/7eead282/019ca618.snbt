@@ -1,0 +1,21 @@
+{
+	x: -17.0d,
+	y: -5.0d,
+	dependencies: [
+		"6bb4c4cf"
+	],
+	tasks: [{
+		uid: "c9607a6a",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "3ce0a749",
+		type: "item",
+		item: "thermalfoundation:tool.shield_iron"
+	}]
+}

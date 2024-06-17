@@ -1,0 +1,21 @@
+{
+	x: -21.5d,
+	y: -11.0d,
+	dependencies: [
+		"46ea9812"
+	],
+	tasks: [{
+		uid: "eb8abb86",
+		type: "item",
+		items: [{
+			item: "waystones:waystone"
+		}]
+	}],
+	rewards: [{
+		uid: "0ab27cb3",
+		type: "item",
+		team_reward: true,
+		item: "waystones:waystone",
+		count: 4
+	}]
+}

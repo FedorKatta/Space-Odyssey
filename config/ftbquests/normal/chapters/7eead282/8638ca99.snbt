@@ -1,0 +1,21 @@
+{
+	x: -14.0d,
+	y: -8.0d,
+	dependencies: [
+		"cfd600bc"
+	],
+	tasks: [{
+		uid: "f1df49e3",
+		type: "item",
+		items: [{
+			item: "eplus:advanced_table"
+		}]
+	}],
+	rewards: [{
+		uid: "ed806747",
+		type: "item",
+		team_reward: true,
+		item: "minecraft:emerald_block",
+		count: 9
+	}]
+}

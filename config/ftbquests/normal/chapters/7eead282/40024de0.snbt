@@ -1,0 +1,24 @@
+{
+	x: -20.0d,
+	y: -8.0d,
+	shape: "hexagon",
+	dependencies: [
+		"d4aed011"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "6374171b",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "25e88f24",
+		type: "item",
+		item: "minecraft:iron_ingot",
+		count: 3
+	}]
+}

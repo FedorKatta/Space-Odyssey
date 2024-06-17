@@ -1,0 +1,22 @@
+{
+	x: -18.5d,
+	y: -5.0d,
+	dependencies: [
+		"6f109e10"
+	],
+	tasks: [{
+		uid: "05281134",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_axe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5dc9e4fe",
+		type: "item",
+		item: "ic2:plate 1 3",
+		count: 5
+	}]
+}

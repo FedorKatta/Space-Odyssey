@@ -1,0 +1,21 @@
+{
+	x: -15.5d,
+	y: -5.0d,
+	dependencies: [
+		"019ca618"
+	],
+	tasks: [{
+		uid: "25790a19",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_hoe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "13ce5e91",
+		type: "item",
+		item: "ic2:te 1 46"
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	x: -15.5d,
+	y: -6.5d,
+	dependencies: [
+		"dd24f481"
+	],
+	tasks: [{
+		uid: "c036dae1",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "915bb521",
+		type: "item",
+		item: "minecraft:iron_ingot",
+		count: 5
+	}]
+}
