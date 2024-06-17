@@ -1,0 +1,20 @@
+{
+	x: -19.5d,
+	y: 5.5d,
+	dependencies: [
+		"540e3823"
+	],
+	tasks: [{
+		uid: "d30aedd8",
+		type: "item",
+		items: [{
+			item: "divinerpg:pardimal_lump"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "f15d33f9",
+		type: "item",
+		item: "divinerpg:pardimal_disk"
+	}]
+}

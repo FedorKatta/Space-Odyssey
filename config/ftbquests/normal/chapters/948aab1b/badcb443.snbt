@@ -1,0 +1,20 @@
+{
+	x: -18.0d,
+	y: 5.5d,
+	dependencies: [
+		"e53bfe18"
+	],
+	tasks: [{
+		uid: "36d4e44c",
+		type: "item",
+		items: [{
+			item: "divinerpg:dream_flint"
+		}]
+	}],
+	rewards: [{
+		uid: "6c69da4d",
+		type: "item",
+		item: "divinerpg:dream_melon",
+		count: 4
+	}]
+}

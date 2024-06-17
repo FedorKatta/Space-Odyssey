@@ -1,0 +1,19 @@
+{
+	x: -13.5d,
+	y: 7.0d,
+	dependencies: [
+		"2cc0d30e"
+	],
+	tasks: [{
+		uid: "ecaeefa6",
+		type: "item",
+		items: [{
+			item: "divinerpg:moon_clock"
+		}]
+	}],
+	rewards: [{
+		uid: "5c316406",
+		type: "item",
+		item: "divinerpg:arksiane_staff"
+	}]
+}

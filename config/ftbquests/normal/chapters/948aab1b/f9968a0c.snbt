@@ -1,0 +1,23 @@
+{
+	x: -36.0d,
+	y: 5.5d,
+	dependencies: [
+		"0b81e60a"
+	],
+	tasks: [{
+		uid: "67b9b4f7",
+		type: "item",
+		items: [{
+			item: "divinerpg:apalachia_axe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6bde84a3",
+		type: "item",
+		team_reward: true,
+		item: "divinerpg:apalachia_chunk",
+		count: 2
+	}]
+}

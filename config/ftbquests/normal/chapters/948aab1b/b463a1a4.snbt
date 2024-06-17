@@ -1,0 +1,22 @@
+{
+	x: -27.0d,
+	y: 7.0d,
+	dependencies: [
+		"0583f529"
+	],
+	tasks: [{
+		uid: "b5ed2d68",
+		type: "item",
+		items: [{
+			item: "divinerpg:mortum_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "81319959",
+		type: "item",
+		item: "divinerpg:mortum_slicer",
+		count: 16
+	}]
+}

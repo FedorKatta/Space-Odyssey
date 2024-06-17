@@ -1,0 +1,22 @@
+{
+	x: -33.0d,
+	y: 7.0d,
+	dependencies: [
+		"3191ffb1"
+	],
+	tasks: [{
+		uid: "05629f32",
+		type: "item",
+		items: [{
+			item: "divinerpg:skythern_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c280ce9f",
+		type: "item",
+		item: "divinerpg:skythern_slicer",
+		count: 16
+	}]
+}

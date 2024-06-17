@@ -1,0 +1,29 @@
+{
+	x: -60.0d,
+	y: 4.0d,
+	dependencies: [
+		"7d19cb47"
+	],
+	tasks: [{
+		uid: "b0871afa",
+		type: "item",
+		items: [{
+			item: "divinerpg:rupee_rapier"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d468d97f",
+		type: "item",
+		item: "divinerpg:rupee_ingot",
+		count: 2
+	},
+	{
+		uid: "9792500b",
+		type: "item",
+		team_reward: true,
+		item: "divinerpg:purple_blaze",
+		count: 6
+	}]
+}

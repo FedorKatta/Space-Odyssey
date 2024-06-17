@@ -1,0 +1,21 @@
+{
+	x: -21.0d,
+	y: 2.5d,
+	dependencies: [
+		"abdb511c"
+	],
+	tasks: [{
+		uid: "fc96ee7b",
+		type: "item",
+		items: [{
+			item: "divinerpg:dirty_pearls"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "b8c8cadc",
+		type: "item",
+		item: "divinerpg:dirty_pearls",
+		count: 4
+	}]
+}

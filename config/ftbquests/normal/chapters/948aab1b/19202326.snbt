@@ -1,0 +1,33 @@
+{
+	icon: {
+		id: "thermalexpansion:morb",
+		tag: {
+			Generic: 1b,
+			id: "divinerpg:quadro"
+		}
+	},
+	x: -16.5d,
+	y: 5.5d,
+	dependencies: [
+		"badcb443"
+	],
+	tasks: [{
+		uid: "d35afeb3",
+		type: "kill",
+		icon: {
+			id: "thermalexpansion:morb",
+			tag: {
+				Generic: 1b,
+				id: "divinerpg:quadro"
+			}
+		},
+		entity: "divinerpg:quadro",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "7ef83daf",
+		type: "item",
+		item: "divinerpg:quadrotic_lump",
+		count: 2
+	}]
+}

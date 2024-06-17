@@ -1,0 +1,21 @@
+{
+	x: -51.0d,
+	y: 4.0d,
+	dependencies: [
+		"7334de69"
+	],
+	tasks: [{
+		uid: "8b8c57d6",
+		type: "item",
+		items: [{
+			item: "divinerpg:eden_chunk"
+		}]
+	}],
+	rewards: [{
+		uid: "6d2e5c74",
+		type: "item",
+		team_reward: true,
+		item: "divinerpg:eden_chunk",
+		count: 2
+	}]
+}

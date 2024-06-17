@@ -1,0 +1,22 @@
+{
+	x: -45.0d,
+	y: 7.0d,
+	dependencies: [
+		"89d5b324"
+	],
+	tasks: [{
+		uid: "6cae597c",
+		type: "item",
+		items: [{
+			item: "divinerpg:wildwood_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "3a09d19c",
+		type: "item",
+		item: "divinerpg:wildwood_arrow",
+		count: 16
+	}]
+}

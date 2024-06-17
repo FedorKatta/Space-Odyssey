@@ -1,0 +1,24 @@
+{
+	x: -42.0d,
+	y: 4.0d,
+	shape: "circle",
+	dependencies: [
+		"102ea43e"
+	],
+	tasks: [{
+		uid: "c63502e8",
+		type: "item",
+		items: [{
+			item: "divinerpg:wildwood_blitz"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "feaee9c1",
+		type: "item",
+		team_reward: true,
+		item: "divinerpg:wildwood_chunk",
+		count: 4
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	x: -30.0d,
+	y: 2.5d,
+	shape: "hexagon",
+	dependencies: [
+		"4284bfd7"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "7108cd34",
+		type: "item",
+		items: [{
+			item: "divinerpg:skythern_block"
+		}],
+		count: 10L
+	}],
+	rewards: [{
+		uid: "a692a30f",
+		type: "item",
+		item: "divinerpg:mortum_dust",
+		count: 4
+	}]
+}

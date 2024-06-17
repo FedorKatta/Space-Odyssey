@@ -1,0 +1,21 @@
+{
+	x: -21.0d,
+	y: 4.0d,
+	dependencies: [
+		"dc812cf5"
+	],
+	tasks: [{
+		uid: "969fe7e8",
+		type: "item",
+		items: [{
+			item: "divinerpg:clean_pearls"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "46f789e7",
+		type: "item",
+		item: "divinerpg:clean_pearls",
+		count: 4
+	}]
+}

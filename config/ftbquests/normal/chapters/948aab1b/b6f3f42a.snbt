@@ -1,0 +1,18 @@
+{
+	x: -64.5d,
+	y: 1.0d,
+	shape: "gear",
+	tasks: [{
+		uid: "4e4a342d",
+		type: "item",
+		items: [{
+			item: "divinerpg:realmite_ingot"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "b2d61715",
+		type: "item",
+		item: "divinerpg:realmite_chestplate"
+	}]
+}

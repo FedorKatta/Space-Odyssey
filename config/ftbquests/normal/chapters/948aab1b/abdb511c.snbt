@@ -1,0 +1,23 @@
+{
+	x: -22.5d,
+	y: 2.5d,
+	shape: "hexagon",
+	dependencies: [
+		"f6212f36"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "81020874",
+		type: "item",
+		items: [{
+			item: "divinerpg:nightmare_bed"
+		}]
+	}],
+	rewards: [{
+		uid: "e586f8ed",
+		type: "item",
+		team_reward: true,
+		item: "divinerpg:teaker_lump",
+		count: 4
+	}]
+}

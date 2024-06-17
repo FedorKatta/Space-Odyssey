@@ -1,0 +1,22 @@
+{
+	x: -58.5d,
+	y: 10.0d,
+	dependencies: [
+		"62c3dd65",
+		"3f8c4fa7"
+	],
+	tasks: [{
+		uid: "10023693",
+		type: "item",
+		items: [{
+			item: "divinerpg:arcanium"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "211bacdf",
+		type: "item",
+		item: "divinerpg:divine_shards",
+		count: 4
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	x: -58.5d,
+	y: 2.5d,
+	dependencies: [
+		"b83619fb"
+	],
+	tasks: [{
+		uid: "df7d7235",
+		type: "item",
+		items: [{
+			item: "divinerpg:mysterious_clock"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "37c07a08",
+		type: "item",
+		team_reward: true,
+		item: "divinerpg:divine_shards",
+		count: 4
+	}]
+}

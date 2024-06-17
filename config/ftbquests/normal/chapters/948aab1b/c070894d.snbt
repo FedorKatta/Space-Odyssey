@@ -1,0 +1,20 @@
+{
+	x: -18.0d,
+	y: 7.0d,
+	dependencies: [
+		"5ab05687"
+	],
+	tasks: [{
+		uid: "a08b470e",
+		type: "item",
+		items: [{
+			item: "divinerpg:heliosis_lump"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "497f131f",
+		type: "item",
+		item: "divinerpg:heliosis_disk"
+	}]
+}

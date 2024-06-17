@@ -1,0 +1,22 @@
+{
+	x: -54.0d,
+	y: 8.5d,
+	dependencies: [
+		"9cb92c10"
+	],
+	tasks: [{
+		uid: "5d48bd9a",
+		type: "item",
+		items: [{
+			item: "divinerpg:meteor_mash"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b538b08e",
+		type: "item",
+		item: "divinerpg:dungeon_tokens",
+		count: 4
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	x: -27.0d,
+	y: -0.5d,
+	dependencies: [
+		"4feb0be0"
+	],
+	tasks: [{
+		uid: "81cbe6c0",
+		type: "item",
+		items: [{
+			item: "divinerpg:halite_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7260e7d9",
+		type: "item",
+		item: "divinerpg:divine_shards",
+		count: 4
+	}]
+}

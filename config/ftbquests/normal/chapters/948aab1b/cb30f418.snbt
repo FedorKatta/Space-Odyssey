@@ -1,0 +1,21 @@
+{
+	x: -55.5d,
+	y: 2.5d,
+	dependencies: [
+		"2efe0ec3"
+	],
+	tasks: [{
+		uid: "b7134bb6",
+		type: "item",
+		items: [{
+			item: "divinerpg:divine_shards"
+		}],
+		count: 10L
+	}],
+	rewards: [{
+		uid: "8ea7b959",
+		type: "item",
+		item: "divinerpg:eden_dust",
+		count: 4
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: -61.5d,
+	y: 2.5d,
+	dependencies: [
+		"257f1bbf"
+	],
+	tasks: [{
+		uid: "e294414d",
+		type: "item",
+		items: [{
+			item: "divinerpg:arlemite_shickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "74eeb743",
+		type: "item",
+		item: "divinerpg:arlemite_stabber"
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	x: -22.5d,
+	y: 7.0d,
+	dependencies: [
+		"4a0f9886"
+	],
+	tasks: [{
+		uid: "dcafb7ca",
+		type: "item",
+		items: [{
+			item: "divinerpg:mortum_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "dfa66011",
+		type: "item",
+		team_reward: true,
+		item: "divinerpg:mortum_chunk",
+		count: 2
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	x: -37.5d,
+	y: 2.5d,
+	dependencies: [
+		"7a7a6ae3"
+	],
+	tasks: [{
+		uid: "60bde491",
+		type: "item",
+		items: [{
+			item: "divinerpg:apalachia_heart"
+		}],
+		count: 10L
+	}],
+	rewards: [{
+		uid: "8c2ef9b2",
+		type: "item",
+		team_reward: true,
+		item: "divinerpg:apalachia_chunk",
+		count: 4
+	}]
+}

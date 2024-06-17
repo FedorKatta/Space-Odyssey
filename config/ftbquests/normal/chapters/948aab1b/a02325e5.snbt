@@ -1,0 +1,23 @@
+{
+	x: -64.5d,
+	y: 2.5d,
+	dependencies: [
+		"257f1bbf"
+	],
+	tasks: [{
+		uid: "91bb3791",
+		type: "item",
+		items: [{
+			item: "divinerpg:horde_horn"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "22c172cf",
+		type: "item",
+		team_reward: true,
+		item: "divinerpg:bluefire_stone",
+		count: 2
+	}]
+}

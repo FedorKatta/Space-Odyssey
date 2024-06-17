@@ -1,0 +1,22 @@
+{
+	x: -60.0d,
+	y: 2.5d,
+	dependencies: [
+		"c820adc5"
+	],
+	tasks: [{
+		uid: "15de0ed0",
+		type: "item",
+		items: [{
+			item: "divinerpg:corrupted_shards"
+		}],
+		count: 36L
+	}],
+	rewards: [{
+		uid: "4b42b020",
+		type: "item",
+		team_reward: true,
+		item: "divinerpg:corrupted_stone",
+		count: 4
+	}]
+}

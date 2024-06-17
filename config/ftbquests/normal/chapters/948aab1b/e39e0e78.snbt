@@ -1,0 +1,23 @@
+{
+	x: -25.5d,
+	y: -0.5d,
+	dependencies: [
+		"bb5f1b68"
+	],
+	tasks: [{
+		uid: "17abaae1",
+		type: "item",
+		items: [{
+			item: "divinerpg:awakened_halite_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "39c59b78",
+		type: "item",
+		team_reward: true,
+		item: "divinerpg:divine_stone",
+		count: 2
+	}]
+}

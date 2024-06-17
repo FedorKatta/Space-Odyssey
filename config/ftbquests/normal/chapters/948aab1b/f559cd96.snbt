@@ -1,0 +1,23 @@
+{
+	x: -48.0d,
+	y: 7.0d,
+	dependencies: [
+		"db19e726"
+	],
+	tasks: [{
+		uid: "f44da891",
+		type: "item",
+		items: [{
+			item: "divinerpg:eden_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7904f9de",
+		type: "item",
+		team_reward: true,
+		item: "divinerpg:eden_chunk",
+		count: 2
+	}]
+}

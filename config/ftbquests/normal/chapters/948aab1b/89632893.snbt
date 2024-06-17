@@ -1,0 +1,20 @@
+{
+	x: -16.5d,
+	y: 4.0d,
+	dependencies: [
+		"028fe628"
+	],
+	tasks: [{
+		uid: "3cde31bd",
+		type: "item",
+		items: [{
+			item: "divinerpg:cermile_lump"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "3c4ce8a3",
+		type: "item",
+		item: "divinerpg:cermile_disk"
+	}]
+}

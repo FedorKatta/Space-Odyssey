@@ -1,0 +1,36 @@
+{
+	title: "Its a nice time to meet with the Hunger!",
+	icon: {
+		id: "thermalexpansion:morb",
+		tag: {
+			Generic: 1b,
+			id: "divinerpg:the_hunger"
+		}
+	},
+	x: -19.5d,
+	y: 2.5d,
+	dependencies: [
+		"dc812cf5"
+	],
+	tasks: [{
+		uid: "eb7f9a8a",
+		type: "observation",
+		icon: {
+			id: "thermalexpansion:morb",
+			tag: {
+				Generic: 1b,
+				id: "divinerpg:the_hunger"
+			}
+		},
+		match_type: "entity_id",
+		match: "divinerpg:the_hunger",
+		timer: 100L
+	}],
+	rewards: [{
+		uid: "18ed38ca",
+		type: "item",
+		team_reward: true,
+		item: "divinerpg:dream_cake",
+		count: 4
+	}]
+}
