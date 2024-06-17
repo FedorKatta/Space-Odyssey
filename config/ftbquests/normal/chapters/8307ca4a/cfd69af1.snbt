@@ -1,0 +1,20 @@
+{
+	x: -10.0d,
+	y: -0.5d,
+	dependencies: [
+		"f5b9cce4"
+	],
+	tasks: [{
+		uid: "75e92b7f",
+		type: "item",
+		items: [{
+			item: "galaxyspace:rocket_modules 1 10"
+		}]
+	}],
+	rewards: [{
+		uid: "fb1be27a",
+		type: "item",
+		item: "galaxyspace:hdp 1 1",
+		count: 16
+	}]
+}

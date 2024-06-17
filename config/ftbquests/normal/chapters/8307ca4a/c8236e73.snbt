@@ -1,0 +1,23 @@
+{
+	x: -10.0d,
+	y: -5.0d,
+	shape: "hexagon",
+	dependencies: [
+		"22925966"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "449a1cec",
+		type: "item",
+		items: [{
+			item: "galaxyspace:enceladusblocks"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "5393f48a",
+		type: "item",
+		item: "galaxyspace:hdp",
+		count: 16
+	}]
+}

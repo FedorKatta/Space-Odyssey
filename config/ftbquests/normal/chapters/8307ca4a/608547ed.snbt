@@ -1,0 +1,21 @@
+{
+	x: -7.0d,
+	y: -5.0d,
+	dependencies: [
+		"2932493c"
+	],
+	tasks: [{
+		uid: "7ebdc039",
+		type: "item",
+		items: [{
+			item: "galaxyspace:gs_basic 1 8"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "23dade4a",
+		type: "item",
+		item: "galaxyspace:gs_basic 1 21",
+		count: 8
+	}]
+}

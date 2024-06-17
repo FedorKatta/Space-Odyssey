@@ -1,0 +1,19 @@
+{
+	x: -7.0d,
+	y: -3.5d,
+	dependencies: [
+		"608547ed"
+	],
+	tasks: [{
+		uid: "7921e7fe",
+		type: "item",
+		items: [{
+			item: "galaxyspace:gravitation_module"
+		}]
+	}],
+	rewards: [{
+		uid: "d062aaa4",
+		type: "item",
+		item: "galaxyspace:machineframes 1 1"
+	}]
+}

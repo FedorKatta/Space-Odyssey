@@ -1,0 +1,21 @@
+{
+	x: -10.0d,
+	y: -3.5d,
+	dependencies: [
+		"c8236e73"
+	],
+	tasks: [{
+		uid: "1b902f5f",
+		type: "item",
+		items: [{
+			item: "galaxyspace:gs_basic 1 17"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0e05e17e",
+		type: "item",
+		item: "minecraft:ice",
+		count: 16
+	}]
+}

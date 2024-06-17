@@ -1,0 +1,28 @@
+{
+	x: 0.5d,
+	y: -0.5d,
+	shape: "hexagon",
+	dependencies: [
+		"d517cf3f"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "1bf0b762",
+		type: "item",
+		items: [{
+			item: "galaxyspace:rocket_tier_6"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b73834ff",
+		type: "item",
+		item: "galaxyspace:plasma_axe"
+	},
+	{
+		uid: "6633cc5c",
+		type: "item",
+		team_reward: true,
+		item: "draconicadditions:potato_boots"
+	}]
+}

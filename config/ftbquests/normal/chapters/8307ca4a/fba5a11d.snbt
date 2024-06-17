@@ -1,0 +1,21 @@
+{
+	x: -2.5d,
+	y: -5.0d,
+	dependencies: [
+		"76429639"
+	],
+	tasks: [{
+		uid: "35147d28",
+		type: "item",
+		items: [{
+			item: "galaxyspace:thermal_padding_t4 1 2"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ad067dd7",
+		type: "item",
+		item: "galaxyspace:gs_basic 1 21",
+		count: 4
+	}]
+}

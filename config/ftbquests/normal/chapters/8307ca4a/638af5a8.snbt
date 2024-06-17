@@ -1,0 +1,19 @@
+{
+	x: -5.5d,
+	y: -3.5d,
+	dependencies: [
+		"61653731"
+	],
+	tasks: [{
+		uid: "10dbcf84",
+		type: "item",
+		items: [{
+			item: "galaxyspace:planet_shield"
+		}]
+	}],
+	rewards: [{
+		uid: "e02cb8fa",
+		type: "item",
+		item: "galaxyspace:machineframes 1 2"
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	x: -10.0d,
+	y: -2.0d,
+	shape: "hexagon",
+	dependencies: [
+		"c4b5c80a"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "d1c29827",
+		type: "item",
+		items: [{
+			item: "galaxyspace:titanblocks"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "28198add",
+		type: "item",
+		item: "galaxyspace:hdp 1 1",
+		count: 8
+	}]
+}
