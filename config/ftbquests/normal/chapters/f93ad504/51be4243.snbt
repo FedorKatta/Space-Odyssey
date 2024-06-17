@@ -1,0 +1,21 @@
+{
+	x: -2.5d,
+	y: -2.0d,
+	dependencies: [
+		"98270a3e"
+	],
+	tasks: [{
+		uid: "f9460824",
+		type: "item",
+		items: [{
+			item: "bigreactors:turbinebearing"
+		}]
+	}],
+	rewards: [{
+		uid: "a8158b15",
+		type: "item",
+		team_reward: true,
+		item: "bigreactors:blockludicrite",
+		count: 4
+	}]
+}

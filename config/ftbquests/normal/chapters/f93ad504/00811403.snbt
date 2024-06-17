@@ -1,0 +1,20 @@
+{
+	x: 0.5d,
+	y: -3.5d,
+	dependencies: [
+		"d7e674c9"
+	],
+	tasks: [{
+		uid: "1e7c9478",
+		type: "item",
+		items: [{
+			item: "bigreactors:reactorpowertaprf"
+		}]
+	}],
+	rewards: [{
+		uid: "3a61f554",
+		type: "item",
+		item: "bigreactors:oreyellorite",
+		count: 4
+	}]
+}

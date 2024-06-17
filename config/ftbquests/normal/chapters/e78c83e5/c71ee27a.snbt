@@ -1,0 +1,21 @@
+{
+	x: -6.5d,
+	y: -8.5d,
+	dependencies: [
+		"e309764c"
+	],
+	tasks: [{
+		uid: "4a061634",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 23"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "0b6dda03",
+		type: "item",
+		item: "appliedenergistics2:material 1 23",
+		count: 8
+	}]
+}

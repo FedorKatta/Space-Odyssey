@@ -1,0 +1,20 @@
+{
+	x: -6.5d,
+	y: -10.0d,
+	dependencies: [
+		"c71ee27a"
+	],
+	tasks: [{
+		uid: "a76d233a",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:crafting_monitor"
+		}]
+	}],
+	rewards: [{
+		uid: "51c15226",
+		type: "item",
+		item: "appliedenergistics2:material",
+		count: 8
+	}]
+}

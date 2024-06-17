@@ -1,0 +1,21 @@
+{
+	x: -5.5d,
+	y: -2.0d,
+	dependencies: [
+		"22069918"
+	],
+	tasks: [{
+		uid: "00819b53",
+		type: "item",
+		items: [{
+			item: "bigreactors:turbinehousing"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "26957fa1",
+		type: "item",
+		item: "bigreactors:turbinehousing",
+		count: 16
+	}]
+}

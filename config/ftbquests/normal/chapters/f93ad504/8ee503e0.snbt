@@ -1,0 +1,21 @@
+{
+	x: -1.0d,
+	y: -2.0d,
+	dependencies: [
+		"51be4243"
+	],
+	tasks: [{
+		uid: "186d2707",
+		type: "item",
+		items: [{
+			item: "bigreactors:turbinecontroller"
+		}]
+	}],
+	rewards: [{
+		uid: "ff9e940c",
+		type: "item",
+		team_reward: true,
+		item: "bigreactors:blockludicrite",
+		count: 8
+	}]
+}

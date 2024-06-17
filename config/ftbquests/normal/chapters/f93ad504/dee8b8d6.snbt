@@ -1,0 +1,21 @@
+{
+	x: -4.0d,
+	y: -3.5d,
+	dependencies: [
+		"4d95ab6c"
+	],
+	tasks: [{
+		uid: "453c0c64",
+		type: "item",
+		items: [{
+			item: "bigreactors:reactorglass"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "1b1dc442",
+		type: "item",
+		item: "bigreactors:reactorglass",
+		count: 16
+	}]
+}

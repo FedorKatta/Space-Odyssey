@@ -1,0 +1,24 @@
+{
+	x: -5.0d,
+	y: -4.0d,
+	dependencies: [
+		"088e02c7"
+	],
+	tasks: [{
+		uid: "48c85c82",
+		type: "item",
+		items: [{
+			id: "appliedenergistics2:crystal_seed",
+			tag: {
+				progress: 1200
+			},
+			Damage: 1200s
+		}]
+	}],
+	rewards: [{
+		uid: "cdf94269",
+		type: "item",
+		item: "appliedenergistics2:material 1 7",
+		count: 8
+	}]
+}

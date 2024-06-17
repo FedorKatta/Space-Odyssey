@@ -1,0 +1,29 @@
+{
+	x: -7.0d,
+	y: -3.5d,
+	shape: "hexagon",
+	dependencies: [
+		"c4b90bf9"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "05f97db6",
+		type: "item",
+		items: [{
+			item: "bigreactors:reactorcasing"
+		}],
+		count: 22L
+	}],
+	rewards: [{
+		uid: "01659194",
+		type: "item",
+		item: "bigreactors:oreyellorite",
+		count: 8
+	},
+	{
+		uid: "9b6f2e0b",
+		type: "item",
+		item: "bigreactors:reactorcasing",
+		count: 16
+	}]
+}

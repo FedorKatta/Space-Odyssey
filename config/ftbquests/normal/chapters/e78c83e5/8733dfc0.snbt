@@ -1,0 +1,20 @@
+{
+	x: -2.0d,
+	y: -8.5d,
+	shape: "circle",
+	dependencies: [
+		"438c1ae9"
+	],
+	tasks: [{
+		uid: "00fae566",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:crafting_storage_16k"
+		}]
+	}],
+	rewards: [{
+		uid: "904f72f7",
+		type: "item",
+		item: "appliedenergistics2:material 1 36"
+	}]
+}

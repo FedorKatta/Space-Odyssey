@@ -1,0 +1,22 @@
+{
+	x: -5.5d,
+	y: -3.5d,
+	dependencies: [
+		"937300bf"
+	],
+	tasks: [{
+		uid: "7f64f2f0",
+		type: "item",
+		items: [{
+			item: "bigreactors:wrench"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "95a6ed32",
+		type: "item",
+		item: "bigreactors:oreyellorite",
+		count: 4
+	}]
+}

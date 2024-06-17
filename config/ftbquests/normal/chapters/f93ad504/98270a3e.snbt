@@ -1,0 +1,21 @@
+{
+	x: -4.0d,
+	y: -2.0d,
+	dependencies: [
+		"92759862"
+	],
+	tasks: [{
+		uid: "fa520288",
+		type: "item",
+		items: [{
+			item: "bigreactors:turbineglass"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "8cfe18a5",
+		type: "item",
+		item: "bigreactors:turbineglass",
+		count: 32
+	}]
+}

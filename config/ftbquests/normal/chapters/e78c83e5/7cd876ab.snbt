@@ -1,0 +1,20 @@
+{
+	x: -9.5d,
+	y: -5.5d,
+	dependencies: [
+		"f6181b2a"
+	],
+	tasks: [{
+		uid: "7fdf9f36",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:grindstone"
+		}]
+	}],
+	rewards: [{
+		uid: "7ac6c657",
+		type: "item",
+		item: "minecraft:quartz",
+		count: 8
+	}]
+}

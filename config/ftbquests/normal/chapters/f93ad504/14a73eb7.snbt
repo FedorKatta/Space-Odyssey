@@ -1,0 +1,21 @@
+{
+	x: 5.0d,
+	y: -2.0d,
+	dependencies: [
+		"e058a498"
+	],
+	tasks: [{
+		uid: "6b61a207",
+		type: "item",
+		items: [{
+			item: "bigreactors:turbinerotorblade"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "9798cfe1",
+		type: "item",
+		item: "bigreactors:turbinerotorblade",
+		count: 8
+	}]
+}

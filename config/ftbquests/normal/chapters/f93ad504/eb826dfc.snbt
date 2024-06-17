@@ -1,0 +1,21 @@
+{
+	x: 3.5d,
+	y: -3.5d,
+	dependencies: [
+		"6771995b"
+	],
+	tasks: [{
+		uid: "0a31c2fe",
+		type: "item",
+		items: [{
+			item: "bigreactors:reactorcontrolrod"
+		}],
+		count: 5L
+	}],
+	rewards: [{
+		uid: "0762b496",
+		type: "item",
+		item: "bigreactors:oreyellorite",
+		count: 4
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: -11.0d,
+	y: -5.5d,
+	shape: "hexagon",
+	dependencies: [
+		"a79ecdac"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "23dc9b23",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:crank"
+		}]
+	}]
+}

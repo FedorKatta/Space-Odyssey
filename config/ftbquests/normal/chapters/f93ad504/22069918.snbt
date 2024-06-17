@@ -1,0 +1,20 @@
+{
+	x: -7.0d,
+	y: -2.0d,
+	dependencies: [
+		"937300bf"
+	],
+	tasks: [{
+		uid: "77902a1b",
+		type: "item",
+		items: [{
+			item: "bigreactors:reactorcoolantport"
+		}]
+	}],
+	rewards: [{
+		uid: "e932a6dd",
+		type: "item",
+		item: "bigreactors:ingotgraphite",
+		count: 16
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	x: 0.5d,
+	y: -0.5d,
+	dependencies: [
+		"fbe03c6c"
+	],
+	tasks: [{
+		uid: "9f07f60a",
+		type: "item",
+		items: [{
+			item: "fluxnetworks:gargantuanfluxstorage"
+		}]
+	}],
+	rewards: [{
+		uid: "8485c337",
+		type: "item",
+		team_reward: true,
+		item: "fluxnetworks:gargantuanfluxstorage"
+	},
+	{
+		uid: "315666ea",
+		type: "item",
+		team_reward: true,
+		item: "draconicadditions:potato_helm"
+	}]
+}

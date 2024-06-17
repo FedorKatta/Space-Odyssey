@@ -1,0 +1,20 @@
+{
+	x: -9.5d,
+	y: -4.0d,
+	dependencies: [
+		"2559950b"
+	],
+	tasks: [{
+		uid: "a6c94ea7",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:sky_compass"
+		}]
+	}],
+	rewards: [{
+		uid: "53c4088a",
+		type: "item",
+		item: "appliedenergistics2:material",
+		count: 4
+	}]
+}
