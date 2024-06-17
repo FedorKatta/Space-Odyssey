@@ -1,0 +1,21 @@
+{
+	x: -5.0d,
+	y: -2.5d,
+	dependencies: [
+		"3429d911"
+	],
+	tasks: [{
+		uid: "94e6ef8b",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:view_screen"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "4af6f504",
+		type: "item",
+		team_reward: true,
+		item: "minecraft:skull 1 1"
+	}]
+}

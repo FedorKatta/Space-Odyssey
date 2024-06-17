@@ -1,0 +1,31 @@
+{
+	x: -3.5d,
+	y: -1.0d,
+	dependencies: [
+		"ffa6ff3c"
+	],
+	tasks: [{
+		uid: "50bee063",
+		type: "item",
+		title: "Add a sublight engine",
+		items: [{
+			id: "galaxyspace:rocket_tier_6",
+			tag: {
+				sublight_engine: 1b,
+				modification_count: 0
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "df7f28ff",
+		type: "item",
+		team_reward: true,
+		item: "minecraft:skull 1 1"
+	},
+	{
+		uid: "8ab88cfc",
+		type: "item",
+		team_reward: true,
+		item: "draconicadditions:potato_legs"
+	}]
+}

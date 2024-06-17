@@ -1,0 +1,21 @@
+{
+	x: -8.0d,
+	y: 0.5d,
+	dependencies: [
+		"5fe6741f"
+	],
+	tasks: [{
+		uid: "a635e041",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:asteroids_block"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "f79f70cf",
+		type: "item",
+		item: "minecraft:diamond",
+		count: 2
+	}]
+}

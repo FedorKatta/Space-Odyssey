@@ -1,0 +1,21 @@
+{
+	x: -3.5d,
+	y: -2.5d,
+	dependencies: [
+		"ae176593"
+	],
+	tasks: [{
+		uid: "cfea1413",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:magnetic_table"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "99d44901",
+		type: "item",
+		team_reward: true,
+		item: "minecraft:skull 1 1"
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	x: -8.0d,
+	y: -1.0d,
+	shape: "hexagon",
+	dependencies: [
+		"5f83926e"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "e2240ef5",
+		type: "dimension",
+		title: "Visit Kuiper Belt",
+		icon: "galaxyspace:gs_basic 1 30",
+		dim: -1009
+	}],
+	rewards: [{
+		uid: "b27d0061",
+		type: "item",
+		team_reward: true,
+		item: "minecraft:skull 1 1"
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: -0.5d,
+	y: -4.0d,
+	dependencies: [
+		"33e4351d"
+	],
+	tasks: [{
+		uid: "5a1d1159",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:walkway"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "b9f9eae4",
+		type: "item",
+		team_reward: true,
+		item: "minecraft:skull 1 1"
+	}]
+}

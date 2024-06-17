@@ -1,0 +1,21 @@
+{
+	x: -3.5d,
+	y: -4.0d,
+	dependencies: [
+		"5ff6086d"
+	],
+	tasks: [{
+		uid: "70f48338",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:arclamp"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "9008c3b9",
+		type: "item",
+		team_reward: true,
+		item: "minecraft:skull 1 1"
+	}]
+}

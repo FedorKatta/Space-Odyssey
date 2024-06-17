@@ -1,0 +1,21 @@
+{
+	x: -5.0d,
+	y: 2.0d,
+	dependencies: [
+		"d7846ac1"
+	],
+	tasks: [{
+		uid: "0071d1fa",
+		type: "item",
+		items: [{
+			item: "galaxyspace:haumeablocks 1 2"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "35a97d3d",
+		type: "item",
+		team_reward: true,
+		item: "minecraft:skull 1 1"
+	}]
+}

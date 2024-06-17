@@ -1,0 +1,21 @@
+{
+	x: -5.0d,
+	y: -4.0d,
+	dependencies: [
+		"5bffdb47"
+	],
+	tasks: [{
+		uid: "a8fd243a",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:asteroids_block 1 5"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "157f56a2",
+		type: "item",
+		team_reward: true,
+		item: "minecraft:skull 1 1"
+	}]
+}

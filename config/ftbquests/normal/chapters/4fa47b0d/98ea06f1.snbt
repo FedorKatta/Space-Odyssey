@@ -1,0 +1,21 @@
+{
+	x: -2.0d,
+	y: 2.0d,
+	dependencies: [
+		"0c548370"
+	],
+	tasks: [{
+		uid: "b94fc499",
+		type: "item",
+		items: [{
+			item: "galaxyspace:gs_basic 1 27"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "53bf81e3",
+		type: "item",
+		team_reward: true,
+		item: "minecraft:skull 1 1"
+	}]
+}

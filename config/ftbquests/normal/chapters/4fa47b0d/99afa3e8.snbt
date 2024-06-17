@@ -1,0 +1,22 @@
+{
+	x: -0.5d,
+	y: -2.5d,
+	dependencies: [
+		"a67fed39"
+	],
+	tasks: [{
+		uid: "7723e140",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:grapple"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e55dfd26",
+		type: "item",
+		team_reward: true,
+		item: "minecraft:skull 1 1"
+	}]
+}

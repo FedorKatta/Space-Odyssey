@@ -1,0 +1,20 @@
+{
+	x: -5.0d,
+	y: -1.0d,
+	dependencies: [
+		"797f78ec"
+	],
+	tasks: [{
+		uid: "a5260695",
+		type: "item",
+		items: [{
+			item: "galaxyspace:modification_table"
+		}]
+	}],
+	rewards: [{
+		uid: "d5d7ba8b",
+		type: "item",
+		team_reward: true,
+		item: "minecraft:skull 1 1"
+	}]
+}

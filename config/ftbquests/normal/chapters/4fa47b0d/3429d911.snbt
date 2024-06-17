@@ -1,0 +1,21 @@
+{
+	x: -6.5d,
+	y: -2.5d,
+	dependencies: [
+		"5f83926e"
+	],
+	tasks: [{
+		uid: "775c29f7",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:space_glass_clear"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "9e887957",
+		type: "item",
+		team_reward: true,
+		item: "minecraft:skull 1 1"
+	}]
+}
