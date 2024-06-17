@@ -1,0 +1,21 @@
+{
+	x: -10.0d,
+	y: 0.5d,
+	dependencies: [
+		"0356b22c"
+	],
+	tasks: [{
+		uid: "670ff7f5",
+		type: "item",
+		items: [{
+			item: "galaxyspace:tauceti_f_blocks 1 2"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "6909e82b",
+		type: "item",
+		team_reward: true,
+		item: "galaxyspace:plasma_sword"
+	}]
+}

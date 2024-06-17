@@ -1,0 +1,21 @@
+{
+	x: -11.5d,
+	y: -1.0d,
+	dependencies: [
+		"19bbe1d4"
+	],
+	tasks: [{
+		uid: "05ea6f9c",
+		type: "item",
+		items: [{
+			item: "galaxyspace:proxima_b_blocks 1 11"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "8532e54d",
+		type: "item",
+		team_reward: true,
+		item: "galaxyspace:plasma_pickaxe"
+	}]
+}

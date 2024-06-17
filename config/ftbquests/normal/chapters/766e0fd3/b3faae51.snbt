@@ -1,0 +1,24 @@
+{
+	x: -1.0d,
+	y: -5.5d,
+	dependencies: [
+		"2c5f6c87"
+	],
+	tasks: [{
+		uid: "c2763fe0",
+		type: "item",
+		items: [{
+			item: "galaxyspace:br_basic"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "60841aa5",
+		type: "item",
+		item: {
+			id: "galaxyspace:jetpack",
+			tag: {},
+			Damage: 200s
+		}
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	x: -11.5d,
+	y: -5.5d,
+	shape: "hexagon",
+	dependencies: [
+		"35bc7f96"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "18469f93",
+		type: "item",
+		items: [{
+			item: "galaxyspace:barnarda_c_grasses"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "77a0d2d4",
+		type: "item",
+		item: "galaxyspace:gs_basic 1 19"
+	}]
+}

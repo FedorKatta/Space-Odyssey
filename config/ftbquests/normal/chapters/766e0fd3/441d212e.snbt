@@ -1,0 +1,21 @@
+{
+	x: -7.0d,
+	y: -2.5d,
+	dependencies: [
+		"d702e042"
+	],
+	tasks: [{
+		uid: "f8ebd45f",
+		type: "item",
+		items: [{
+			item: "galaxyspace:proxima_b_log_2"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "64f89f2d",
+		type: "item",
+		item: "minecraft:diamond",
+		count: 8
+	}]
+}

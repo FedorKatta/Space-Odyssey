@@ -1,0 +1,20 @@
+{
+	x: -2.5d,
+	y: -2.5d,
+	dependencies: [
+		"fdd3ea39"
+	],
+	tasks: [{
+		uid: "1ab60651",
+		type: "item",
+		items: [{
+			item: "galaxyspace:proxima_b_mushroom_log"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "48aab28b",
+		type: "item",
+		item: "minecraft:skull 1 1"
+	}]
+}

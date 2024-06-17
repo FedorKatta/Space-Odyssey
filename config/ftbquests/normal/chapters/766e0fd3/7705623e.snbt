@@ -1,0 +1,21 @@
+{
+	x: -8.5d,
+	y: -5.5d,
+	dependencies: [
+		"ccc70d6d"
+	],
+	tasks: [{
+		uid: "b1d6966b",
+		type: "item",
+		items: [{
+			item: "galaxyspace:barnarda_c_blocks 1 1"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "cc514f00",
+		type: "item",
+		item: "bigreactors:oreyellorite",
+		count: 4
+	}]
+}

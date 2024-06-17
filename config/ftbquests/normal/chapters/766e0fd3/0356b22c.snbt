@@ -1,0 +1,29 @@
+{
+	x: -11.5d,
+	y: 0.5d,
+	shape: "hexagon",
+	dependencies: [
+		"91133804"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "30594bad",
+		type: "item",
+		items: [{
+			item: "galaxyspace:tauceti_f_blocks"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "a28c894f",
+		type: "item",
+		item: {
+			id: "minecraft:paper",
+			tag: {
+				display: {
+					Name: "Did you know you can launch your rocket underwater?"
+				}
+			}
+		}
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	x: -10.0d,
+	y: -5.5d,
+	dependencies: [
+		"49f9ca6d"
+	],
+	tasks: [{
+		uid: "507b6601",
+		type: "item",
+		items: [{
+			item: "galaxyspace:barnarda_c_blocks"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "69ed4a13",
+		type: "item",
+		item: {
+			id: "galaxyspace:geo_scanner",
+			tag: {},
+			Damage: 100s
+		}
+	}]
+}

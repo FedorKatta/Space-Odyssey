@@ -1,0 +1,21 @@
+{
+	x: -10.0d,
+	y: -2.5d,
+	dependencies: [
+		"19bbe1d4"
+	],
+	tasks: [{
+		uid: "aa3880a5",
+		type: "item",
+		items: [{
+			item: "galaxyspace:proxima_b_blocks 1 1"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "365e8b87",
+		type: "item",
+		item: "bigreactors:oreyellorite",
+		count: 8
+	}]
+}
