@@ -1,0 +1,27 @@
+{
+	x: -8.0d,
+	y: -5.0d,
+	dependencies: [
+		"3dbbceb7"
+	],
+	tasks: [{
+		uid: "75ae5bc2",
+		type: "item",
+		items: [{
+			item: "galaxyspace:mercuryblocks 1 2"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "9b0263c0",
+		type: "item",
+		item: {
+			id: "minecraft:paper",
+			tag: {
+				display: {
+					Name: "Use mercury stone in universal recycler"
+				}
+			}
+		}
+	}]
+}

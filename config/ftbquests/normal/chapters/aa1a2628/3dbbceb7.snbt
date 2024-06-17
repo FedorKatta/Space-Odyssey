@@ -1,0 +1,21 @@
+{
+	x: -9.5d,
+	y: -5.0d,
+	dependencies: [
+		"9f0770f3"
+	],
+	tasks: [{
+		uid: "673766c7",
+		type: "item",
+		items: [{
+			item: "galaxyspace:mercuryblocks 1 1"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "461cb9b1",
+		type: "item",
+		item: "thermalfoundation:material 1 133",
+		count: 4
+	}]
+}

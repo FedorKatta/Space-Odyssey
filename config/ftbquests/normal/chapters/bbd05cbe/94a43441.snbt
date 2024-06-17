@@ -1,0 +1,23 @@
+{
+	x: -10.5d,
+	y: 0.5d,
+	shape: "hexagon",
+	dependencies: [
+		"fd064568"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "6b5c8927",
+		type: "item",
+		items: [{
+			item: "galaxyspace:plutoblocks"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "2de8cb36",
+		type: "item",
+		team_reward: true,
+		item: "minecraft:skull 1 1"
+	}]
+}

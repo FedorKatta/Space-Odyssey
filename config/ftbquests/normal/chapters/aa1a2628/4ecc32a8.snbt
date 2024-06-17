@@ -1,0 +1,23 @@
+{
+	x: -11.0d,
+	y: 1.5d,
+	shape: "hexagon",
+	dependencies: [
+		"d117b78b"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "08ad0fca",
+		type: "item",
+		items: [{
+			item: "galaxyspace:phobosblocks"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "1936a79b",
+		type: "item",
+		item: "thermalfoundation:material 1 135",
+		count: 2
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: -5.0d,
+	y: 1.5d,
+	dependencies: [
+		"ec20e14a"
+	],
+	tasks: [{
+		uid: "f2e64947",
+		type: "item",
+		items: [{
+			item: "galaxyspace:phobosblocks 1 3"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "631a9bf7",
+		type: "item",
+		item: "galacticraftplanets:laser_turret"
+	}]
+}

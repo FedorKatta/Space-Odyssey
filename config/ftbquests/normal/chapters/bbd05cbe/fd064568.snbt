@@ -1,0 +1,23 @@
+{
+	x: -10.5d,
+	y: -2.5d,
+	shape: "hexagon",
+	dependencies: [
+		"ec98e25a"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "135c1c5a",
+		type: "item",
+		items: [{
+			item: "galaxyspace:callistoblocks"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "7dee9082",
+		type: "item",
+		team_reward: true,
+		item: "minecraft:skull 1 1"
+	}]
+}

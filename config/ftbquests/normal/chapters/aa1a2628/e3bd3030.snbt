@@ -1,0 +1,24 @@
+{
+	x: -5.0d,
+	y: -5.0d,
+	dependencies: [
+		"ca460eff"
+	],
+	tasks: [{
+		uid: "a457ef98",
+		type: "item",
+		items: [{
+			id: "galacticraftcore:battery",
+			tag: {},
+			Damage: 100s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "72970029",
+		type: "item",
+		item: "thermalfoundation:material 1 325",
+		count: 4
+	}]
+}

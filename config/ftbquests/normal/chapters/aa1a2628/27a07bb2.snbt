@@ -1,0 +1,27 @@
+{
+	x: -3.5d,
+	y: -5.0d,
+	dependencies: [
+		"e3bd3030"
+	],
+	tasks: [{
+		uid: "7de82b23",
+		type: "item",
+		items: [{
+			id: "galaxyspace:advanced_battery",
+			tag: {},
+			Damage: 100s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "957c2c28",
+		type: "item",
+		item: {
+			id: "galacticraftcore:battery",
+			tag: {},
+			Damage: 100s
+		}
+	}]
+}

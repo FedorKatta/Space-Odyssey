@@ -1,0 +1,27 @@
+{
+	x: -3.0d,
+	y: 0.5d,
+	dependencies: [
+		"6bf2dfc1"
+	],
+	tasks: [{
+		uid: "95c0a5f0",
+		type: "item",
+		items: [{
+			item: "galaxyspace:plutoblocks 1 5"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "c3d4872b",
+		type: "item",
+		team_reward: true,
+		item: "minecraft:skull 1 1"
+	},
+	{
+		uid: "281c2fbb",
+		type: "item",
+		team_reward: true,
+		item: "draconicadditions:potato_chest"
+	}]
+}

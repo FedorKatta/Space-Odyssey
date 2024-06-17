@@ -1,0 +1,20 @@
+{
+	x: -6.5d,
+	y: -5.0d,
+	dependencies: [
+		"cf9983a7"
+	],
+	tasks: [{
+		uid: "dec009eb",
+		type: "item",
+		items: [{
+			item: "galaxyspace:gs_basic 1 7"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "eee410c6",
+		type: "item",
+		item: "galacticraftcore:oxygen_tank_heavy_full"
+	}]
+}

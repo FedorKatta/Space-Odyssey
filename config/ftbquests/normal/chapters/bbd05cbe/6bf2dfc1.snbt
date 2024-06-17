@@ -1,0 +1,21 @@
+{
+	x: -4.5d,
+	y: 0.5d,
+	dependencies: [
+		"34505b15"
+	],
+	tasks: [{
+		uid: "9947e9f1",
+		type: "item",
+		items: [{
+			item: "galaxyspace:plutoblocks 1 4"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "d8b487af",
+		type: "item",
+		team_reward: true,
+		item: "minecraft:skull 1 1"
+	}]
+}

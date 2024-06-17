@@ -1,0 +1,28 @@
+{
+	x: -6.5d,
+	y: 1.5d,
+	dependencies: [
+		"b2051bb1"
+	],
+	tasks: [{
+		uid: "cafdb85c",
+		type: "item",
+		items: [{
+			item: "galaxyspace:phobosblocks 1 2"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "eb1bc7c1",
+		type: "item",
+		item: {
+			id: "minecraft:enchanted_book",
+			tag: {
+				StoredEnchantments: [{
+					lvl: 1s,
+					id: 33s
+				}]
+			}
+		}
+	}]
+}

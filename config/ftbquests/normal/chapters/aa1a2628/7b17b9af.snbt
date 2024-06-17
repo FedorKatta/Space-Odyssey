@@ -1,0 +1,27 @@
+{
+	x: -2.0d,
+	y: -5.0d,
+	dependencies: [
+		"27a07bb2"
+	],
+	tasks: [{
+		uid: "00942219",
+		type: "item",
+		items: [{
+			id: "galaxyspace:modern_battery",
+			tag: {},
+			Damage: 100s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e9474226",
+		type: "item",
+		item: {
+			id: "galaxyspace:advanced_battery",
+			tag: {},
+			Damage: 100s
+		}
+	}]
+}
