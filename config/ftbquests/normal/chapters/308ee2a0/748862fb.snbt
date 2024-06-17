@@ -1,0 +1,24 @@
+{
+	x: -3.0d,
+	y: 4.5d,
+	dependencies: [
+		"6d819453"
+	],
+	tasks: [{
+		uid: "6e6ee075",
+		type: "item",
+		items: [{
+			id: "galaxyspace:space_suit_feet",
+			tag: {},
+			Damage: 200s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "10666f67",
+		type: "item",
+		item: "galaxyspace:compressed_plates 1 4",
+		count: 2
+	}]
+}

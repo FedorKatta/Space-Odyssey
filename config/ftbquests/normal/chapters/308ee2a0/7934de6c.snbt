@@ -1,0 +1,15 @@
+{
+	x: -4.5d,
+	y: -1.5d,
+	dependencies: [
+		"b18e9062"
+	],
+	tasks: [{
+		uid: "12d9c09e",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:mars 1 7"
+		}],
+		count: 16L
+	}]
+}

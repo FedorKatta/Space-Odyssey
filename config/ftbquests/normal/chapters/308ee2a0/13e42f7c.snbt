@@ -1,0 +1,15 @@
+{
+	x: -6.0d,
+	y: -6.0d,
+	dependencies: [
+		"80f8d045"
+	],
+	tasks: [{
+		uid: "4271b365",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:basic_block_moon 1 14"
+		}],
+		count: 16L
+	}]
+}

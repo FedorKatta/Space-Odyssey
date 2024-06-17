@@ -1,0 +1,22 @@
+{
+	x: -4.5d,
+	y: -4.5d,
+	dependencies: [
+		"d758526f"
+	],
+	tasks: [{
+		uid: "1ef71e90",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:buggy"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "43944edb",
+		type: "item",
+		item: "galacticraftcore:meteoric_iron_raw",
+		count: 4
+	}]
+}

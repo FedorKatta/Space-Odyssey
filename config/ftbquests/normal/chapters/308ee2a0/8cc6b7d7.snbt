@@ -1,0 +1,21 @@
+{
+	x: -4.5d,
+	y: 3.0d,
+	dependencies: [
+		"a4a8f1e0"
+	],
+	tasks: [{
+		uid: "77869a77",
+		type: "item",
+		items: [{
+			item: "galaxyspace:rocket_parts 1 1"
+		}],
+		count: 2L
+	}],
+	rewards: [{
+		uid: "03136bcf",
+		type: "item",
+		item: "galacticraftplanets:item_basic_mars",
+		count: 8
+	}]
+}

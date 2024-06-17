@@ -1,0 +1,20 @@
+{
+	x: -6.0d,
+	y: 0.0d,
+	dependencies: [
+		"7f63a0f4"
+	],
+	tasks: [{
+		uid: "1ef4cfb9",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:atmospheric_valve"
+		}]
+	}],
+	rewards: [{
+		uid: "55e58c20",
+		type: "item",
+		item: "galacticraftplanets:item_basic_mars",
+		count: 8
+	}]
+}

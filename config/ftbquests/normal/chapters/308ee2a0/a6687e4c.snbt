@@ -1,0 +1,23 @@
+{
+	x: -12.0d,
+	y: -6.0d,
+	shape: "hexagon",
+	dependencies: [
+		"50a2ccd2"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "d7961529",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:basic_block_moon 1 3"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "303ee939",
+		type: "item",
+		item: "galaxyspace:gs_basic 1 9",
+		count: 8
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: -4.5d,
+	y: -6.0d,
+	shape: "hexagon",
+	dependencies: [
+		"13e42f7c"
+	],
+	tasks: [{
+		uid: "aa53cbce",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:schematic 1 1"
+		}],
+		ignore_nbt: 1b
+	}]
+}

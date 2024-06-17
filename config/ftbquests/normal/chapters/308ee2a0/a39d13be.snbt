@@ -1,0 +1,23 @@
+{
+	x: 1.5d,
+	y: 3.0d,
+	shape: "hexagon",
+	dependencies: [
+		"f806b9a2"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "3a338a1f",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:rocket_t3"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d7ba4f02",
+		type: "item",
+		item: "galacticraftplanets:item_basic_mars",
+		count: 16
+	}]
+}

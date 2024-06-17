@@ -1,0 +1,14 @@
+{
+	x: -6.0d,
+	y: -3.0d,
+	dependencies: [
+		"3b0d8738"
+	],
+	tasks: [{
+		uid: "cc639efe",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:air_lock_frame 1 1"
+		}]
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: -10.5d,
+	y: -1.5d,
+	dependencies: [
+		"7100a59f"
+	],
+	tasks: [{
+		uid: "a36834d3",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:engine 1 1"
+		}],
+		count: 2L
+	}],
+	rewards: [{
+		uid: "5c2a5f05",
+		type: "item",
+		item: "solarflux:solar_panel_5",
+		count: 2
+	}]
+}

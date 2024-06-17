@@ -1,0 +1,20 @@
+{
+	x: -12.0d,
+	y: -1.5d,
+	dependencies: [
+		"765cde21"
+	],
+	tasks: [{
+		uid: "67207704",
+		type: "item",
+		items: [{
+			item: "galaxyspace:rocket_modules 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "6904017c",
+		type: "item",
+		item: "minecraft:wool",
+		count: 8
+	}]
+}

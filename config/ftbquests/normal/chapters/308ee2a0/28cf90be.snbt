@@ -1,0 +1,21 @@
+{
+	x: -9.0d,
+	y: -3.0d,
+	dependencies: [
+		"7100a59f"
+	],
+	tasks: [{
+		uid: "bcb18cf4",
+		type: "item",
+		items: [{
+			item: "galaxyspace:rocket_modules 1 3"
+		}],
+		count: 2L
+	}],
+	rewards: [{
+		uid: "61e401fa",
+		type: "item",
+		item: "galaxyspace:compressed_plates",
+		count: 4
+	}]
+}

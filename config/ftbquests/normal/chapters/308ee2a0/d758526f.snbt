@@ -1,0 +1,21 @@
+{
+	x: -6.0d,
+	y: -4.5d,
+	dependencies: [
+		"d178948e"
+	],
+	tasks: [{
+		uid: "59fda0e3",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:landing_pad 1 1"
+		}],
+		count: 9L
+	}],
+	rewards: [{
+		uid: "2b2b8ec1",
+		type: "item",
+		item: "galacticraftcore:basic_item 1 9",
+		count: 8
+	}]
+}

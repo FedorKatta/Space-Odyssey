@@ -1,0 +1,21 @@
+{
+	x: -3.0d,
+	y: 1.5d,
+	dependencies: [
+		"9cce7693"
+	],
+	tasks: [{
+		uid: "dc915369",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:thermal_padding_t2 1 2"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "afb07bdb",
+		type: "item",
+		item: "galacticraftplanets:item_basic_asteroids 1 7",
+		count: 2
+	}]
+}

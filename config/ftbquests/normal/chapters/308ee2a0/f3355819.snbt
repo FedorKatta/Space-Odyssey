@@ -1,0 +1,22 @@
+{
+	x: -9.0d,
+	y: -1.5d,
+	shape: "hexagon",
+	dependencies: [
+		"f17a9daf",
+		"28cf90be"
+	],
+	tasks: [{
+		uid: "3569ac50",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:rocket_t2"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "59851cf5",
+		type: "item",
+		item: "galacticraftcore:oxygen_tank_heavy_full"
+	}]
+}

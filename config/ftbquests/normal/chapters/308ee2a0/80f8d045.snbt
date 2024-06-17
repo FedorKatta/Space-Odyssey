@@ -1,0 +1,21 @@
+{
+	x: -7.5d,
+	y: -6.0d,
+	dependencies: [
+		"2264f059"
+	],
+	tasks: [{
+		uid: "b927069c",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:item_basic_moon 1 2"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "0152217c",
+		type: "item",
+		team_reward: true,
+		item: "galacticraftcore:dungeonfinder"
+	}]
+}

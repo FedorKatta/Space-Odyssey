@@ -1,0 +1,21 @@
+{
+	x: 0.0d,
+	y: 3.0d,
+	dependencies: [
+		"f83a91a3"
+	],
+	tasks: [{
+		uid: "d285efff",
+		type: "item",
+		items: [{
+			item: "galaxyspace:rocket_parts 1 4"
+		}],
+		count: 2L
+	}],
+	rewards: [{
+		uid: "93d8d54e",
+		type: "item",
+		item: "galacticraftcore:meteoric_iron_raw",
+		count: 16
+	}]
+}

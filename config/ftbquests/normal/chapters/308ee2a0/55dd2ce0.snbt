@@ -1,0 +1,20 @@
+{
+	x: -1.5d,
+	y: 0.0d,
+	dependencies: [
+		"ccc0b64b"
+	],
+	tasks: [{
+		uid: "47c9eb60",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:mars_machine_t2"
+		}]
+	}],
+	rewards: [{
+		uid: "b785ee55",
+		type: "item",
+		item: "galacticraftplanets:item_basic_mars 1 2",
+		count: 8
+	}]
+}

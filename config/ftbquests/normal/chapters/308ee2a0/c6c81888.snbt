@@ -1,0 +1,21 @@
+{
+	x: -12.0d,
+	y: -4.5d,
+	dependencies: [
+		"a6687e4c"
+	],
+	tasks: [{
+		uid: "f8668e16",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:meteoric_iron_raw"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "0dff7f2d",
+		type: "item",
+		item: "galacticraftcore:item_basic_moon",
+		count: 8
+	}]
+}

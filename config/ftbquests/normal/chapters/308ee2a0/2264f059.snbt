@@ -1,0 +1,20 @@
+{
+	x: -9.0d,
+	y: -6.0d,
+	dependencies: [
+		"9886c4ef"
+	],
+	tasks: [{
+		uid: "027f5d83",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:cheese_curd"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "94badc51",
+		type: "item",
+		item: "galacticraftcore:food 1 8"
+	}]
+}

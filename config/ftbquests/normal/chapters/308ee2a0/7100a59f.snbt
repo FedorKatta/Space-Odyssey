@@ -1,0 +1,26 @@
+{
+	x: -10.5d,
+	y: -3.0d,
+	dependencies: [
+		"765cde21"
+	],
+	tasks: [{
+		uid: "0f0ce544",
+		type: "item",
+		items: [{
+			item: "galaxyspace:assembly_machine"
+		}]
+	}],
+	rewards: [{
+		uid: "a4dbffe1",
+		type: "item",
+		item: "galaxyspace:compressed_plates",
+		count: 4
+	},
+	{
+		uid: "9a1c324d",
+		type: "item",
+		item: "galaxyspace:upgrades 1 2",
+		count: 2
+	}]
+}
