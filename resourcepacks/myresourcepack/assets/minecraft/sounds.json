@@ -1,0 +1,23 @@
+{
+    "music.game": {
+	    "category": "music",
+	    "sounds": [
+		    {
+			    "name": "music/game/corestartup",
+			    "stream": true
+		    },
+		    {
+			    "name": "music/game/credits",
+			    "stream": true
+		    },
+              {
+			    "name": "music/game/takeoff",
+			    "stream": true
+		    },
+		    {
+			    "name": "music/game/titlescreen",
+			    "stream": true
+		    }
+	    ]
+    }
+}
