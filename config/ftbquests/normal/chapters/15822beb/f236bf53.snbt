@@ -1,0 +1,20 @@
+{
+	x: -11.5d,
+	y: -7.0d,
+	dependencies: [
+		"30289d75"
+	],
+	tasks: [{
+		uid: "6d09ba15",
+		type: "item",
+		items: [{
+			item: "buildcrafttransport:pipe_gold_item"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "33913200",
+		type: "item",
+		item: "minecraft:golden_apple"
+	}]
+}

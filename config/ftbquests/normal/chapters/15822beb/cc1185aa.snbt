@@ -1,0 +1,23 @@
+{
+	x: -13.0d,
+	y: -3.5d,
+	shape: "hexagon",
+	dependencies: [
+		"b8d95795",
+		"ed3d7e0b",
+		"49af59dc"
+	],
+	tasks: [{
+		uid: "a81f5c06",
+		type: "item",
+		items: [{
+			item: "buildcraftbuilders:quarry"
+		}]
+	}],
+	rewards: [{
+		uid: "5e344dd6",
+		type: "item",
+		team_reward: true,
+		item: "solarflux:solar_panel_4"
+	}]
+}

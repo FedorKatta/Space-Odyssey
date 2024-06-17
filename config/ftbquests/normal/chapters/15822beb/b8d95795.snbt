@@ -1,0 +1,20 @@
+{
+	x: -13.0d,
+	y: -5.0d,
+	dependencies: [
+		"30289d75"
+	],
+	tasks: [{
+		uid: "2d996a34",
+		type: "item",
+		items: [{
+			item: "buildcraftcore:marker_volume"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "2135a82d",
+		type: "item",
+		item: "minecraft:lapis_block"
+	}]
+}

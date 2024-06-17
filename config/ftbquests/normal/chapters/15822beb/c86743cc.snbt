@@ -1,0 +1,22 @@
+{
+	x: -10.0d,
+	y: -3.5d,
+	shape: "circle",
+	dependencies: [
+		"f3bfa2c7"
+	],
+	tasks: [{
+		uid: "a00427f4",
+		type: "item",
+		items: [{
+			item: "solarflux:solar_panel_5"
+		}]
+	}],
+	rewards: [{
+		uid: "edd85fc8",
+		type: "item",
+		team_reward: true,
+		item: "solarflux:solar_panel_2",
+		count: 16
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	x: -13.0d,
+	y: -7.0d,
+	shape: "hexagon",
+	dependencies: [
+		"b6ecb0fa"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "9455dd4f",
+		type: "item",
+		items: [{
+			item: "buildcrafttransport:pipe_wood_item"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "ed46203a",
+		type: "item",
+		item: "bonsaitrees:bonsaipot 1 1",
+		count: 4
+	}]
+}

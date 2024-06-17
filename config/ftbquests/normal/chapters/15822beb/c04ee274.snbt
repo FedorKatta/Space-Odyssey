@@ -1,0 +1,19 @@
+{
+	x: -10.0d,
+	y: -9.0d,
+	dependencies: [
+		"f4efcaa3"
+	],
+	tasks: [{
+		uid: "72107602",
+		type: "item",
+		items: [{
+			item: "energyconverters:energy_producer_mj"
+		}]
+	}],
+	rewards: [{
+		uid: "236c4c7f",
+		type: "item",
+		item: "ic2:crafting 1 2"
+	}]
+}
