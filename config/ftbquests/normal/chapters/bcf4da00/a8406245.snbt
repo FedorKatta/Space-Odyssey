@@ -1,0 +1,25 @@
+{
+	x: -11.5d,
+	y: 1.0d,
+	dependencies: [
+		"a09fbc2d"
+	],
+	tasks: [{
+		uid: "abd99d9c",
+		type: "item",
+		items: [{
+			id: "ic2:cable",
+			tag: {
+				type: 3b,
+				insulation: 1b
+			},
+			Damage: 3s
+		}],
+		count: 10L
+	}],
+	rewards: [{
+		uid: "50edf00d",
+		type: "item",
+		item: "ic2:crafting 1 1"
+	}]
+}

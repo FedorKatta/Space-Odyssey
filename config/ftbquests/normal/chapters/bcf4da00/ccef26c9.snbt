@@ -1,0 +1,31 @@
+{
+	x: -5.5d,
+	y: -0.5d,
+	dependencies: [
+		"ebdd011d"
+	],
+	tasks: [{
+		uid: "3e22148a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "dustSulfur",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any dustSulfur"
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "ebd85151",
+		type: "item",
+		item: "thermalfoundation:material 1 66",
+		count: 5
+	}]
+}

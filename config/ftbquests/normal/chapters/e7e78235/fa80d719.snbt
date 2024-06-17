@@ -1,0 +1,17 @@
+{
+	disable_toast: true,
+	x: 3.0d,
+	y: -5.0d,
+	shape: "rsquare",
+	size: 1.5d,
+	tasks: [{
+		uid: "b479e914",
+		type: "item",
+		items: [{
+			item: "draconicadditions:potato_legs"
+		}],
+		consume_items: true,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

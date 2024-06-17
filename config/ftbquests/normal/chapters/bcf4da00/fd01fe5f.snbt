@@ -1,0 +1,30 @@
+{
+	x: -2.5d,
+	y: -8.0d,
+	dependencies: [
+		"57b4b114"
+	],
+	tasks: [{
+		uid: "e6d85549",
+		type: "item",
+		items: [{
+			id: "ic2:rotor_carbon",
+			tag: {
+				advDmg: 0
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "d3dd6f00",
+		type: "item",
+		item: {
+			id: "ic2:energy_crystal",
+			tag: {
+				charge: 1000000.0d
+			}
+		},
+		count: 2
+	}]
+}

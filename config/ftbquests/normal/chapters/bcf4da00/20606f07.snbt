@@ -1,0 +1,21 @@
+{
+	x: -8.5d,
+	y: -0.5d,
+	dependencies: [
+		"0f06401d"
+	],
+	tasks: [{
+		uid: "3f6d4904",
+		type: "item",
+		items: [{
+			item: "ic2:crafting 1 6"
+		}],
+		count: 3L
+	}],
+	rewards: [{
+		uid: "72335f13",
+		type: "item",
+		item: "thermalfoundation:material 1 66",
+		count: 5
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	x: -11.5d,
+	y: -6.5d,
+	dependencies: [
+		"a0cc2f93"
+	],
+	tasks: [{
+		uid: "8a3832a0",
+		type: "item",
+		items: [{
+			item: "ic2:treetap"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a825d855",
+		type: "item",
+		item: "ic2:sapling",
+		count: 5
+	}]
+}

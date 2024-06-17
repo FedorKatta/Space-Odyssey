@@ -1,0 +1,23 @@
+{
+	x: -8.5d,
+	y: -3.5d,
+	dependencies: [
+		"cc6c6ee2"
+	],
+	tasks: [{
+		uid: "1a7b7e7b",
+		type: "item",
+		items: [{
+			id: "ic2:jetpack_electric",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8eab3cdc",
+		type: "item",
+		item: "ic2:crafting 1 37"
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	disable_toast: true,
+	x: -3.0d,
+	y: -3.5d,
+	shape: "rsquare",
+	size: 1.5d,
+	tasks: [{
+		uid: "c20b6ae3",
+		type: "item",
+		items: [{
+			item: "ic2:te 1 2"
+		}],
+		consume_items: true
+	}]
+}

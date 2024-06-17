@@ -1,0 +1,32 @@
+{
+	x: -13.0d,
+	y: -3.5d,
+	dependencies: [
+		"a48fed23"
+	],
+	tasks: [{
+		uid: "0c0daeaa",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "ingotAluminum",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any ingotAluminum"
+				}
+			}
+		}],
+		count: 5L
+	}],
+	rewards: [{
+		uid: "7e735428",
+		type: "item",
+		item: "ic2:filled_tin_can",
+		count: 32
+	}]
+}

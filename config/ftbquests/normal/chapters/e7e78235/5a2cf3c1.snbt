@@ -1,0 +1,41 @@
+{
+	title: "Upgrade Tier: Basic",
+	icon: "draconicevolution:draconic_core",
+	disable_toast: true,
+	x: -11.5d,
+	y: 1.0d,
+	shape: "rsquare",
+	can_repeat: true,
+	tasks: [{
+		uid: "cdc4815b",
+		type: "item",
+		icon: "thermalfoundation:coin 1 1",
+		items: [{
+			item: "thermalfoundation:coin 1 1"
+		}],
+		count: 32L
+	}],
+	rewards: [{
+		uid: "6d7dda1b",
+		type: "item",
+		item: "draconicevolution:draconic_core"
+	},
+	{
+		uid: "bb0eb95c",
+		type: "item",
+		item: "minecraft:diamond",
+		count: 2
+	},
+	{
+		uid: "71ba48c5",
+		type: "item",
+		item: "minecraft:ender_eye",
+		count: 2
+	},
+	{
+		uid: "c8a25c67",
+		type: "item",
+		item: "minecraft:golden_apple",
+		count: 2
+	}]
+}

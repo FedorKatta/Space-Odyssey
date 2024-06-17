@@ -1,0 +1,21 @@
+{
+	disable_toast: true,
+	x: -8.5d,
+	y: -6.5d,
+	shape: "rsquare",
+	can_repeat: true,
+	tasks: [{
+		uid: "ab19d610",
+		type: "item",
+		items: [{
+			item: "divinerpg:apalachia_soul"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "bbb0edd0",
+		type: "item",
+		item: "thermalfoundation:coin 1 1",
+		count: 16
+	}]
+}

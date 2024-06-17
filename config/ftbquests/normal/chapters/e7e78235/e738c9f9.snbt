@@ -1,0 +1,15 @@
+{
+	disable_toast: true,
+	x: -1.5d,
+	y: -0.75d,
+	shape: "rsquare",
+	size: 1.5d,
+	tasks: [{
+		uid: "772e7414",
+		type: "item",
+		items: [{
+			item: "galaxyspace:br_basic 1 2"
+		}],
+		consume_items: true
+	}]
+}

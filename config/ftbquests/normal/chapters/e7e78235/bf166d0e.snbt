@@ -1,0 +1,17 @@
+{
+	disable_toast: true,
+	x: 1.5d,
+	y: -0.75d,
+	shape: "rsquare",
+	size: 1.5d,
+	tasks: [{
+		uid: "1e700baa",
+		type: "item",
+		items: [{
+			item: "draconicevolution:creative_exchanger"
+		}],
+		consume_items: true,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

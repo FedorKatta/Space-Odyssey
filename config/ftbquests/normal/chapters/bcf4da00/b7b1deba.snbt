@@ -1,0 +1,21 @@
+{
+	x: -13.0d,
+	y: -8.0d,
+	dependencies: [
+		"edc32799"
+	],
+	tasks: [{
+		uid: "6595d487",
+		type: "item",
+		items: [{
+			item: "ic2:wrench"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "fc73d434",
+		type: "item",
+		item: "ic2:crafting 1 1"
+	}]
+}

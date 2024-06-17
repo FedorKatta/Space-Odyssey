@@ -1,0 +1,35 @@
+{
+	title: "The end?",
+	x: 0.0d,
+	y: -3.5d,
+	shape: "gear",
+	hide_dependency_lines: true,
+	dependencies: [
+		"e738c9f9",
+		"7ae934bb",
+		"1dbded2e",
+		"e8e98ead",
+		"fa77f4f2",
+		"5bdf39f8",
+		"3bfedf96",
+		"bf166d0e",
+		"fa80d719",
+		"07e241bf",
+		"8875c00a",
+		"df18d447"
+	],
+	size: 2.5d,
+	tasks: [{
+		uid: "41a1a03e",
+		type: "checkmark",
+		title: "???",
+		icon: "minecraft:bedrock"
+	}],
+	rewards: [{
+		uid: "31c6c3c3",
+		type: "command",
+		title: "???",
+		icon: "minecraft:bedrock",
+		command: "/gamemode 1 @p"
+	}]
+}

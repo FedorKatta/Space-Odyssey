@@ -1,0 +1,15 @@
+{
+	disable_toast: true,
+	x: 0.0d,
+	y: -0.75d,
+	shape: "rsquare",
+	size: 1.5d,
+	tasks: [{
+		uid: "93c57ca1",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:laser_turret"
+		}],
+		consume_items: true
+	}]
+}

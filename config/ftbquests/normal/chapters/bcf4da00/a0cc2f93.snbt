@@ -1,0 +1,24 @@
+{
+	x: -11.5d,
+	y: -5.0d,
+	shape: "hexagon",
+	dependencies: [
+		"61425eb0"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "18bc4a21",
+		type: "item",
+		items: [{
+			item: "ic2:forge_hammer"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e653f161",
+		type: "item",
+		item: "ic2:plate 1 3",
+		count: 10
+	}]
+}

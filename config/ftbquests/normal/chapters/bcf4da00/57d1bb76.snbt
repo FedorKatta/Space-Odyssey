@@ -1,0 +1,21 @@
+{
+	x: -2.5d,
+	y: -5.0d,
+	dependencies: [
+		"7e153301"
+	],
+	tasks: [{
+		uid: "29d0e7d4",
+		type: "item",
+		items: [{
+			item: "ic2:plate 1 4"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "cf55a278",
+		type: "item",
+		item: "ic2:fluid_cell",
+		count: 5
+	}]
+}

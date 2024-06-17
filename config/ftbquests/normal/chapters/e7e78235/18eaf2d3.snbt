@@ -1,0 +1,29 @@
+{
+	title: "Exchange",
+	disable_toast: true,
+	x: -5.5d,
+	y: 1.0d,
+	shape: "rsquare",
+	can_repeat: true,
+	tasks: [{
+		uid: "36e72a51",
+		type: "item",
+		items: [{
+			item: "minecraft:skull 1 1"
+		}],
+		count: 3L
+	},
+	{
+		uid: "cf3e808f",
+		type: "item",
+		items: [{
+			item: "minecraft:soul_sand"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "13076078",
+		type: "item",
+		item: "minecraft:nether_star"
+	}]
+}

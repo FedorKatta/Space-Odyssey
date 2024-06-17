@@ -1,0 +1,24 @@
+{
+	x: -8.5d,
+	y: 1.0d,
+	dependencies: [
+		"f39b7041"
+	],
+	tasks: [{
+		uid: "1daf9f03",
+		type: "item",
+		items: [{
+			id: "ic2:re_battery",
+			tag: {},
+			Damage: 26s
+		}],
+		count: 3L,
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9df35d0b",
+		type: "item",
+		item: "ic2:crafting 1 1"
+	}]
+}

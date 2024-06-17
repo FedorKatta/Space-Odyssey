@@ -1,0 +1,19 @@
+{
+	disable_toast: true,
+	x: -11.5d,
+	y: -6.5d,
+	shape: "rsquare",
+	can_repeat: true,
+	tasks: [{
+		uid: "60955732",
+		type: "item",
+		items: [{
+			item: "divinerpg:eden_soul"
+		}]
+	}],
+	rewards: [{
+		uid: "0d6787f1",
+		type: "item",
+		item: "thermalfoundation:coin 1 1"
+	}]
+}

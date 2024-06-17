@@ -1,0 +1,21 @@
+{
+	x: 2.0d,
+	y: -6.5d,
+	dependencies: [
+		"04aa69df"
+	],
+	tasks: [{
+		uid: "d84ad64b",
+		type: "item",
+		items: [{
+			item: "ic2:tool_box"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8557dcab",
+		type: "item",
+		item: "ic2:tool_box"
+	}]
+}

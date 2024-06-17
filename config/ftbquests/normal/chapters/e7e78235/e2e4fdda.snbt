@@ -1,0 +1,21 @@
+{
+	disable_toast: true,
+	x: -10.0d,
+	y: -6.5d,
+	shape: "rsquare",
+	can_repeat: true,
+	tasks: [{
+		uid: "dbe9f376",
+		type: "item",
+		items: [{
+			item: "divinerpg:wildwood_soul"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "01b0da69",
+		type: "item",
+		item: "thermalfoundation:coin 1 1",
+		count: 4
+	}]
+}

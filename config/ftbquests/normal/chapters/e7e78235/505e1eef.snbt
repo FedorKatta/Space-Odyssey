@@ -1,0 +1,40 @@
+{
+	title: "Upgrade Tier: Wyvern",
+	icon: "draconicevolution:wyvern_core",
+	disable_toast: true,
+	x: -10.0d,
+	y: 1.0d,
+	shape: "rsquare",
+	can_repeat: true,
+	tasks: [{
+		uid: "8f6eebbb",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:coin 1 1"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "c296a677",
+		type: "item",
+		item: "draconicevolution:draconic_core",
+		count: 2
+	},
+	{
+		uid: "6d710f8e",
+		type: "item",
+		item: "minecraft:nether_star",
+		count: 2
+	},
+	{
+		uid: "98b255ff",
+		type: "item",
+		item: "minecraft:emerald",
+		count: 2
+	},
+	{
+		uid: "a9a38e4e",
+		type: "item",
+		item: "draconicevolution:wyvern_core"
+	}]
+}

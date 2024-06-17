@@ -1,0 +1,36 @@
+{
+	x: -13.0d,
+	y: -5.0d,
+	dependencies: [
+		"a0cc2f93"
+	],
+	tasks: [{
+		uid: "6ba6cf69",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "ingotTin",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any ingotTin"
+				}
+			}
+		}],
+		count: 5L
+	}],
+	rewards: [{
+		uid: "b6f84f5d",
+		type: "item",
+		item: {
+			id: "ic2:re_battery",
+			tag: {},
+			Damage: 26s
+		},
+		count: 5
+	}]
+}

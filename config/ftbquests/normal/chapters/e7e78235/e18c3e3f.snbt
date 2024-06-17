@@ -1,0 +1,21 @@
+{
+	disable_toast: true,
+	x: -7.0d,
+	y: -6.5d,
+	shape: "rsquare",
+	can_repeat: true,
+	tasks: [{
+		uid: "82c01fcf",
+		type: "item",
+		items: [{
+			item: "divinerpg:skythern_soul"
+		}],
+		count: 32L
+	}],
+	rewards: [{
+		uid: "e0081df6",
+		type: "item",
+		item: "thermalfoundation:coin 1 1",
+		count: 32
+	}]
+}

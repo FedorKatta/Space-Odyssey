@@ -1,0 +1,40 @@
+{
+	title: "Upgrade Tier: Dragon",
+	icon: "draconicevolution:awakened_core",
+	disable_toast: true,
+	x: -8.5d,
+	y: 1.0d,
+	shape: "rsquare",
+	can_repeat: true,
+	tasks: [{
+		uid: "1e694195",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:coin 1 1"
+		}],
+		count: 192L
+	}],
+	rewards: [{
+		uid: "2d602c61",
+		type: "item",
+		item: "draconicevolution:awakened_core"
+	},
+	{
+		uid: "8a336ac8",
+		type: "item",
+		item: "draconicevolution:wyvern_core",
+		count: 2
+	},
+	{
+		uid: "457f9547",
+		type: "item",
+		item: "minecraft:emerald_block",
+		count: 2
+	},
+	{
+		uid: "2331819d",
+		type: "item",
+		item: "minecraft:nether_star",
+		count: 2
+	}]
+}

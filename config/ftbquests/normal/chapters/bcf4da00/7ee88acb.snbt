@@ -1,0 +1,21 @@
+{
+	x: -5.5d,
+	y: -5.0d,
+	shape: "hexagon",
+	dependencies: [
+		"a0cc2f93"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "1033df12",
+		type: "item",
+		items: [{
+			item: "ic2:crafting 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "59cca78a",
+		type: "item",
+		item: "ic2:te 1 44"
+	}]
+}

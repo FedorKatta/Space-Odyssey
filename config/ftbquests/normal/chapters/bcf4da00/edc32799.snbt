@@ -1,0 +1,39 @@
+{
+	x: -13.0d,
+	y: -6.5d,
+	dependencies: [
+		"a48fed23"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "4708604c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "ingotCopper",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any ingotCopper"
+				}
+			}
+		}],
+		count: 5L
+	}],
+	rewards: [{
+		uid: "ad0a4406",
+		type: "item",
+		item: {
+			id: "ic2:cable",
+			tag: {
+				type: 0b,
+				insulation: 1b
+			}
+		},
+		count: 10
+	}]
+}

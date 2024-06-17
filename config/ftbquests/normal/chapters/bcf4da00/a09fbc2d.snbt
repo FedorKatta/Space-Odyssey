@@ -1,0 +1,24 @@
+{
+	x: -11.5d,
+	y: -0.5d,
+	shape: "hexagon",
+	dependencies: [
+		"a0cc2f93"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "b59c34fb",
+		type: "item",
+		items: [{
+			item: "ic2:cutter"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f95b3dcf",
+		type: "item",
+		item: "ic2:crafting",
+		count: 5
+	}]
+}

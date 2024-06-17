@@ -1,0 +1,32 @@
+{
+	x: -2.5d,
+	y: -6.5d,
+	dependencies: [
+		"03164710"
+	],
+	tasks: [{
+		uid: "d42e13a9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "dustTin",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any dustTin"
+				}
+			}
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "08840c12",
+		type: "item",
+		item: "thermalfoundation:material 1 129",
+		count: 5
+	}]
+}

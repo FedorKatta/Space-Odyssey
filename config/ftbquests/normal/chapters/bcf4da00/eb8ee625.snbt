@@ -1,0 +1,20 @@
+{
+	x: -1.0d,
+	y: -5.0d,
+	dependencies: [
+		"57d1bb76"
+	],
+	tasks: [{
+		uid: "122d428c",
+		type: "item",
+		items: [{
+			item: "ic2:upgrade"
+		}],
+		count: 2L
+	}],
+	rewards: [{
+		uid: "63550f3f",
+		type: "item",
+		item: "ic2:crafting 1 1"
+	}]
+}

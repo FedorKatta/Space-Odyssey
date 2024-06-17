@@ -1,0 +1,31 @@
+{
+	x: -13.0d,
+	y: -2.0d,
+	dependencies: [
+		"aef305ee"
+	],
+	tasks: [{
+		uid: "18127b9b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "ingotLead",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any ingotLead"
+				}
+			}
+		}],
+		count: 5L
+	}],
+	rewards: [{
+		uid: "a2e1f950",
+		type: "item",
+		item: "thermalfoundation:tool.shears_lead"
+	}]
+}

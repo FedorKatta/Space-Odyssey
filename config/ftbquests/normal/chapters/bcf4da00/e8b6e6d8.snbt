@@ -1,0 +1,23 @@
+{
+	x: -2.5d,
+	y: -3.5d,
+	dependencies: [
+		"c6c728a1"
+	],
+	tasks: [{
+		uid: "0fad8345",
+		type: "item",
+		items: [{
+			id: "ic2:nano_boots",
+			tag: {},
+			Damage: 26s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "4f3bce0d",
+		type: "item",
+		item: "ic2:crafting 1 6"
+	}]
+}

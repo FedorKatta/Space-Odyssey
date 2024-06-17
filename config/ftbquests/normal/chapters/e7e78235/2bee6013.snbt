@@ -1,0 +1,20 @@
+{
+	disable_toast: true,
+	x: -11.5d,
+	y: -2.0d,
+	shape: "rsquare",
+	can_repeat: true,
+	tasks: [{
+		uid: "7b0dacca",
+		type: "item",
+		items: [{
+			item: "divinerpg:pure_aquatic_pellets"
+		}]
+	}],
+	rewards: [{
+		uid: "fdc6cbae",
+		type: "item",
+		item: "thermalfoundation:coin 1 1",
+		count: 5
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	disable_toast: true,
+	x: -8.5d,
+	y: -0.5d,
+	shape: "rsquare",
+	can_repeat: true,
+	tasks: [{
+		uid: "ac2cc724",
+		type: "item",
+		items: [{
+			item: "divinerpg:karos_lump"
+		}]
+	}],
+	rewards: [{
+		uid: "a117471b",
+		type: "item",
+		item: "thermalfoundation:coin 1 1",
+		count: 10
+	}]
+}

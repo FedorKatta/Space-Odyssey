@@ -1,0 +1,21 @@
+{
+	disable_toast: true,
+	x: -5.5d,
+	y: -6.5d,
+	shape: "rsquare",
+	can_repeat: true,
+	tasks: [{
+		uid: "2ecf5a5a",
+		type: "item",
+		items: [{
+			item: "divinerpg:mortum_soul"
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "f6e4f1fe",
+		type: "item",
+		item: "thermalfoundation:coin 1 1",
+		count: 64
+	}]
+}

@@ -1,0 +1,59 @@
+{
+	title: "Upgrade Tier: Chaotic",
+	icon: "draconicevolution:chaotic_core",
+	disable_toast: true,
+	x: -7.0d,
+	y: 1.0d,
+	shape: "rsquare",
+	can_repeat: true,
+	tasks: [{
+		uid: "02aa1aa8",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:coin 1 1"
+		}],
+		count: 384L
+	},
+	{
+		uid: "98e492ff",
+		type: "item",
+		items: [{
+			item: "draconicevolution:chaos_shard"
+		}]
+	}],
+	rewards: [{
+		uid: "bc14895d",
+		type: "item",
+		item: "draconicevolution:wyvern_core",
+		count: 2
+	},
+	{
+		uid: "b2c9c26a",
+		type: "item",
+		item: "draconicevolution:awakened_core",
+		count: 2
+	},
+	{
+		uid: "0ae5c525",
+		type: "item",
+		item: "draconicevolution:chaotic_core"
+	},
+	{
+		uid: "4c14d53d",
+		type: "item",
+		item: {
+			id: "minecraft:paper",
+			tag: {
+				display: {
+					Name: "Tip: you can craft dragon egg ;)"
+				}
+			}
+		}
+	},
+	{
+		uid: "eed8849b",
+		type: "item",
+		item: "minecraft:dragon_egg",
+		count: 2
+	}]
+}
