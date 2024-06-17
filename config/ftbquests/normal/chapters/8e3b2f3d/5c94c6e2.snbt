@@ -1,0 +1,20 @@
+{
+	x: -11.5d,
+	y: -4.5d,
+	dependencies: [
+		"de75187b"
+	],
+	tasks: [{
+		uid: "2ec493b1",
+		type: "item",
+		items: [{
+			item: "galaxyspace:mirandablocks 1 15"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "2abe18a4",
+		type: "item",
+		item: "galacticraftcore:oxygen_tank_heavy_full"
+	}]
+}

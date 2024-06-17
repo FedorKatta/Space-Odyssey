@@ -1,0 +1,21 @@
+{
+	x: -8.5d,
+	y: -3.0d,
+	dependencies: [
+		"578f12a3"
+	],
+	tasks: [{
+		uid: "58cfa675",
+		type: "item",
+		items: [{
+			item: "galaxyspace:tritonblocks 1 2"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "091f8149",
+		type: "item",
+		item: "bigreactors:oreyellorite",
+		count: 4
+	}]
+}

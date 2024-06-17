@@ -1,0 +1,21 @@
+{
+	x: 2.0d,
+	y: -6.0d,
+	dependencies: [
+		"50d919c7"
+	],
+	tasks: [{
+		uid: "9f008c0d",
+		type: "item",
+		items: [{
+			item: "galaxyspace:mirandablocks 1 6"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "8ef2dc0c",
+		type: "item",
+		item: "minecraft:diamond",
+		count: 4
+	}]
+}

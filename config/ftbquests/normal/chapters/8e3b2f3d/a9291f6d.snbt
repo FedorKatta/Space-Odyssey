@@ -1,0 +1,22 @@
+{
+	x: -11.5d,
+	y: -3.0d,
+	shape: "hexagon",
+	dependencies: [
+		"5c94c6e2"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "2d37d403",
+		type: "item",
+		items: [{
+			item: "galaxyspace:tritonblocks"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "208ccbff",
+		type: "item",
+		item: "galacticraftcore:oxygen_tank_heavy_full"
+	}]
+}

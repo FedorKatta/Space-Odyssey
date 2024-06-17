@@ -1,0 +1,21 @@
+{
+	title: "Geysers are rare",
+	x: -7.0d,
+	y: -3.0d,
+	dependencies: [
+		"28b367af"
+	],
+	tasks: [{
+		uid: "2a9880da",
+		type: "item",
+		items: [{
+			item: "galaxyspace:tritonblocks 1 3"
+		}]
+	}],
+	rewards: [{
+		uid: "4b758d82",
+		type: "item",
+		item: "bigreactors:oreyellorite",
+		count: 4
+	}]
+}

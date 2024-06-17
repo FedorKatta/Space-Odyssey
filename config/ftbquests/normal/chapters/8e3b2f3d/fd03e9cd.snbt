@@ -1,0 +1,21 @@
+{
+	x: -5.5d,
+	y: -3.0d,
+	dependencies: [
+		"129f44d1"
+	],
+	tasks: [{
+		uid: "8515127a",
+		type: "item",
+		items: [{
+			item: "galaxyspace:oxygen_tank_4 1 3500"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c99cbf1c",
+		type: "item",
+		item: "minecraft:skull 1 1"
+	}]
+}

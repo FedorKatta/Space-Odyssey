@@ -1,0 +1,21 @@
+{
+	x: -2.5d,
+	y: -3.0d,
+	dependencies: [
+		"b1ede619"
+	],
+	tasks: [{
+		uid: "fea79835",
+		type: "item",
+		items: [{
+			item: "galaxyspace:oxygen_tank_6 1 4500"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "e332cb8b",
+		type: "item",
+		item: "galaxyspace:rocket_modules 1 5"
+	}]
+}
