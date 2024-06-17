@@ -1,0 +1,21 @@
+{
+	x: -9.5d,
+	y: -3.5d,
+	dependencies: [
+		"1e3686b9"
+	],
+	tasks: [{
+		uid: "46aaa988",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:venus 1 1"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "2d0ceade",
+		type: "item",
+		item: "galaxyspace:compressed_plates 1 4",
+		count: 4
+	}]
+}

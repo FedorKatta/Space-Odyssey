@@ -1,0 +1,20 @@
+{
+	x: -13.0d,
+	y: -5.0d,
+	dependencies: [
+		"47304b6f"
+	],
+	tasks: [{
+		uid: "0a1a8592",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:machine2 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "9fc1c9bd",
+		type: "item",
+		item: "ic2:crafting 1 1",
+		count: 4
+	}]
+}

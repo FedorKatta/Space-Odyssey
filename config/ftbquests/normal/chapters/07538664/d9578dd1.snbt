@@ -1,0 +1,20 @@
+{
+	x: -9.5d,
+	y: 5.5d,
+	dependencies: [
+		"ecafba70"
+	],
+	tasks: [{
+		uid: "3e9e9ea6",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:machine2 1 12"
+		}]
+	}],
+	rewards: [{
+		uid: "210cd67b",
+		type: "item",
+		item: "galacticraftplanets:item_basic_asteroids 1 5",
+		count: 8
+	}]
+}

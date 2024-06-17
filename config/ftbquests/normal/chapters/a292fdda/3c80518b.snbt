@@ -1,0 +1,21 @@
+{
+	x: -7.0d,
+	y: -3.5d,
+	dependencies: [
+		"698b0998"
+	],
+	tasks: [{
+		uid: "fab3a73e",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:fuel_canister_partial 1 1"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "c36dc27d",
+		type: "item",
+		item: "minecraft:wool",
+		count: 8
+	}]
+}

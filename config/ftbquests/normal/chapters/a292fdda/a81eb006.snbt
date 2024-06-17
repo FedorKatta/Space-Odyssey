@@ -1,0 +1,22 @@
+{
+	x: -11.5d,
+	y: -9.5d,
+	dependencies: [
+		"1f67465b"
+	],
+	tasks: [{
+		uid: "fedba4a3",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:standard_wrench"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "dc755616",
+		type: "item",
+		item: "galacticraftcore:basic_item 1 10",
+		count: 8
+	}]
+}

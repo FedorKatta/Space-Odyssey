@@ -1,0 +1,20 @@
+{
+	x: -13.0d,
+	y: -0.5d,
+	dependencies: [
+		"5ac10f4e"
+	],
+	tasks: [{
+		uid: "27e22b33",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:collector"
+		}]
+	}],
+	rewards: [{
+		uid: "f282cf4e",
+		type: "item",
+		item: "galacticraftcore:fluid_pipe",
+		count: 8
+	}]
+}

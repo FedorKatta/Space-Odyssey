@@ -1,0 +1,26 @@
+{
+	x: -9.5d,
+	y: 4.0d,
+	dependencies: [
+		"715595f6"
+	],
+	tasks: [{
+		uid: "b247f843",
+		type: "item",
+		items: [{
+			item: "galaxyspace:rocket_modules 1 8"
+		}]
+	}],
+	rewards: [{
+		uid: "59917f02",
+		type: "item",
+		item: {
+			id: "galacticraftplanets:rocket_t3",
+			tag: {
+				display: {
+					Name: "Only for deconstruction"
+				}
+			}
+		}
+	}]
+}

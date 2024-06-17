@@ -1,0 +1,19 @@
+{
+	x: -8.5d,
+	y: -2.0d,
+	dependencies: [
+		"098b70fb"
+	],
+	tasks: [{
+		uid: "8b839a37",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:machine_tiered"
+		}]
+	}],
+	rewards: [{
+		uid: "dbb8bb17",
+		type: "item",
+		item: "galacticraftcore:fuel_canister_partial 1 1"
+	}]
+}

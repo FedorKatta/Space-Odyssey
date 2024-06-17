@@ -1,0 +1,21 @@
+{
+	x: -13.0d,
+	y: -3.5d,
+	dependencies: [
+		"61b46546"
+	],
+	tasks: [{
+		uid: "13a620a7",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:basic_item 1 13"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "a80e224e",
+		type: "item",
+		item: "minecraft:diamond",
+		count: 4
+	}]
+}

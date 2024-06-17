@@ -1,0 +1,24 @@
+{
+	x: -5.5d,
+	y: -2.0d,
+	dependencies: [
+		"be2a86e7"
+	],
+	tasks: [{
+		uid: "44146aff",
+		type: "item",
+		items: [{
+			id: "galaxyspace:space_suit_light_chest",
+			tag: {},
+			Damage: 200s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "faf031b9",
+		type: "item",
+		item: "thermalfoundation:material 1 133",
+		count: 4
+	}]
+}

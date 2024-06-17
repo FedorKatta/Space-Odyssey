@@ -1,0 +1,19 @@
+{
+	x: -6.5d,
+	y: 5.5d,
+	dependencies: [
+		"eae95235"
+	],
+	tasks: [{
+		uid: "c2e0e883",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:telepad_short"
+		}]
+	}],
+	rewards: [{
+		uid: "1f747f56",
+		type: "item",
+		item: "galacticraftplanets:telepad_short"
+	}]
+}

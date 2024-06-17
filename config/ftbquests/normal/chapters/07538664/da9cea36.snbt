@@ -1,0 +1,20 @@
+{
+	x: -5.0d,
+	y: 4.0d,
+	dependencies: [
+		"eae95235"
+	],
+	tasks: [{
+		uid: "90728398",
+		type: "item",
+		items: [{
+			item: "galaxyspace:machineframes 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "7f0409ef",
+		type: "item",
+		item: "galacticraftcore:item_basic_moon 1 2",
+		count: 4
+	}]
+}

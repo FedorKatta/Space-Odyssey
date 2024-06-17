@@ -1,0 +1,21 @@
+{
+	x: -8.5d,
+	y: -5.0d,
+	dependencies: [
+		"7d1d68c4"
+	],
+	tasks: [{
+		uid: "b9d81d9f",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:rocket_fins"
+		}],
+		count: 4L
+	}],
+	rewards: [{
+		uid: "df828201",
+		type: "item",
+		item: "galacticraftcore:heavy_plating",
+		count: 4
+	}]
+}

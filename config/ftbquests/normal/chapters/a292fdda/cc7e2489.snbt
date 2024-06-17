@@ -1,0 +1,21 @@
+{
+	x: -2.5d,
+	y: -5.0d,
+	dependencies: [
+		"f31de46c"
+	],
+	tasks: [{
+		uid: "7ba0a0e9",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:thermal_padding 1 3"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "3f364835",
+		type: "item",
+		item: "thermalfoundation:material 1 133",
+		count: 4
+	}]
+}

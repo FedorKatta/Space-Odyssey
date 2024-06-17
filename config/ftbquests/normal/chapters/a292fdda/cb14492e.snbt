@@ -1,0 +1,24 @@
+{
+	x: -2.5d,
+	y: -2.0d,
+	dependencies: [
+		"3223a0fe"
+	],
+	tasks: [{
+		uid: "347e7593",
+		type: "item",
+		items: [{
+			id: "galaxyspace:space_suit_light_feet",
+			tag: {},
+			Damage: 200s
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9b2c109e",
+		type: "item",
+		item: "minecraft:string",
+		count: 4
+	}]
+}

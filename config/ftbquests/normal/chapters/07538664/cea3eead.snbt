@@ -1,0 +1,23 @@
+{
+	x: -0.5d,
+	y: 7.0d,
+	shape: "hexagon",
+	dependencies: [
+		"b9d8d46b"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "88f03e6b",
+		type: "item",
+		items: [{
+			item: "galaxyspace:rocket_tier_4"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "14c444ae",
+		type: "item",
+		item: "galaxyspace:gs_basic 1 5",
+		count: 4
+	}]
+}

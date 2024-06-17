@@ -1,0 +1,23 @@
+{
+	x: -11.0d,
+	y: -3.5d,
+	shape: "hexagon",
+	dependencies: [
+		"0456f090"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "09549c13",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:venus"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "e13e3e24",
+		type: "item",
+		item: "galacticraftcore:meteoric_iron_raw",
+		count: 4
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: -13.0d,
+	y: -9.5d,
+	dependencies: [
+		"d7ee3b6a"
+	],
+	tasks: [{
+		uid: "893c1838",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:fluid_pipe"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "5a0181fa",
+		type: "item",
+		item: "minecraft:glass",
+		count: 16
+	}]
+}

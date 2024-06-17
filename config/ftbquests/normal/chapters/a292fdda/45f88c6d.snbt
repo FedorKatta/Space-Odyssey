@@ -1,0 +1,20 @@
+{
+	x: -8.5d,
+	y: -3.5d,
+	dependencies: [
+		"fcbce85c"
+	],
+	tasks: [{
+		uid: "6bbd44f0",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:engine"
+		}]
+	}],
+	rewards: [{
+		uid: "e67faac5",
+		type: "item",
+		item: "galacticraftcore:heavy_plating",
+		count: 2
+	}]
+}

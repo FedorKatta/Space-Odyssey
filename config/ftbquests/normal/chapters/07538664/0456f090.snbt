@@ -1,0 +1,18 @@
+{
+	x: -13.0d,
+	y: -3.5d,
+	shape: "gear",
+	dependencies: [
+		"50a2ccd2",
+		"a39d13be"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "f31afd39",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:coin 1 1"
+		}],
+		count: 32L
+	}]
+}

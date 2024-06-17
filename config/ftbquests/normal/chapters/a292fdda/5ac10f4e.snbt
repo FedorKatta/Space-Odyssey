@@ -1,0 +1,19 @@
+{
+	x: -13.0d,
+	y: -2.0d,
+	dependencies: [
+		"0399270b"
+	],
+	tasks: [{
+		uid: "1b35e839",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:refinery"
+		}]
+	}],
+	rewards: [{
+		uid: "8c83d627",
+		type: "item",
+		item: "enderstorage:ender_storage 1 1"
+	}]
+}

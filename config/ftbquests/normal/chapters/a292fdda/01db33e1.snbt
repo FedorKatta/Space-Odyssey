@@ -1,0 +1,21 @@
+{
+	x: -2.5d,
+	y: -6.5d,
+	dependencies: [
+		"8ea96aad"
+	],
+	tasks: [{
+		uid: "3f1b5513",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:parachute"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "5263d097",
+		type: "item",
+		item: "minecraft:string",
+		count: 8
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: -8.0d,
+	y: 5.5d,
+	dependencies: [
+		"428a4c62"
+	],
+	tasks: [{
+		uid: "8f66708e",
+		type: "item",
+		items: [{
+			item: "galaxyspace:hdp"
+		}],
+		count: 32L
+	}],
+	rewards: [{
+		uid: "3afce1f3",
+		type: "item",
+		item: "galacticraftplanets:item_basic_asteroids 1 5",
+		count: 16
+	}]
+}

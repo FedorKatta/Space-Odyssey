@@ -1,0 +1,25 @@
+{
+	x: -11.5d,
+	y: -2.0d,
+	dependencies: [
+		"5ac10f4e"
+	],
+	tasks: [{
+		uid: "a077f38e",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:fuel_loader"
+		}]
+	}],
+	rewards: [{
+		uid: "5d45a4a7",
+		type: "item",
+		item: {
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "oil",
+				Amount: 1000
+			}
+		}
+	}]
+}

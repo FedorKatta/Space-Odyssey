@@ -1,0 +1,16 @@
+{
+	x: -13.0d,
+	y: -6.5d,
+	shape: "hexagon",
+	dependencies: [
+		"63f0131c"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "b1f35858",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:machine"
+		}]
+	}]
+}

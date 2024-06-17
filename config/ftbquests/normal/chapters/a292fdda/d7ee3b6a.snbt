@@ -1,0 +1,21 @@
+{
+	x: -13.0d,
+	y: -8.0d,
+	dependencies: [
+		"47304b6f"
+	],
+	tasks: [{
+		uid: "06bc02d5",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:aluminum_wire"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "298bd52c",
+		type: "item",
+		item: "minecraft:wool",
+		count: 16
+	}]
+}

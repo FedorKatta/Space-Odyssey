@@ -1,0 +1,20 @@
+{
+	x: -11.5d,
+	y: -3.5d,
+	dependencies: [
+		"d9dd0f05"
+	],
+	tasks: [{
+		uid: "5a0de140",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:rocket_workbench"
+		}]
+	}],
+	rewards: [{
+		uid: "037dfeb0",
+		type: "item",
+		item: "minecraft:string",
+		count: 4
+	}]
+}

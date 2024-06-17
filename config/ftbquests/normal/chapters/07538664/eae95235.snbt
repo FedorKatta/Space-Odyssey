@@ -1,0 +1,21 @@
+{
+	x: -6.5d,
+	y: 4.0d,
+	dependencies: [
+		"a50a7386"
+	],
+	tasks: [{
+		uid: "45949f24",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:item_basic_asteroids 1 6"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "f4f2a1d5",
+		type: "item",
+		item: "galaxyspace:compressed_plates 1 4",
+		count: 16
+	}]
+}

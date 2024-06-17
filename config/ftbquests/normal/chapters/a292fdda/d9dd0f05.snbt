@@ -1,0 +1,21 @@
+{
+	x: -11.5d,
+	y: -5.0d,
+	dependencies: [
+		"61b46546"
+	],
+	tasks: [{
+		uid: "a9cce82a",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:basic_item 1 14"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "a66dbbcd",
+		type: "item",
+		item: "minecraft:repeater",
+		count: 4
+	}]
+}
