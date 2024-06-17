@@ -1,0 +1,24 @@
+{
+	x: -55.5d,
+	y: 8.5d,
+	dependencies: [
+		"0162022e",
+		"7ae6d45b"
+	],
+	tasks: [{
+		uid: "60c18d8f",
+		type: "item",
+		items: [{
+			item: "divinerpg:dungeon_tokens"
+		}],
+		count: 17L,
+		consume_items: false
+	}],
+	rewards: [{
+		uid: "6717050c",
+		type: "item",
+		team_reward: true,
+		item: "divinerpg:arcanium",
+		count: 4
+	}]
+}

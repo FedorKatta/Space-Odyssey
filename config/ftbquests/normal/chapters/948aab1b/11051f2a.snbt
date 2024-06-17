@@ -1,0 +1,22 @@
+{
+	x: -63.0d,
+	y: 5.5d,
+	dependencies: [
+		"7d19cb47"
+	],
+	tasks: [{
+		uid: "6c476a47",
+		type: "item",
+		items: [{
+			item: "minecraft:flint_and_steel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "de9fd408",
+		type: "item",
+		item: "minecraft:iron_ingot",
+		count: 2
+	}]
+}

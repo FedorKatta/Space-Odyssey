@@ -1,0 +1,23 @@
+{
+	x: -57.0d,
+	y: 10.0d,
+	dependencies: [
+		"588686fb"
+	],
+	tasks: [{
+		uid: "2fb97707",
+		type: "item",
+		items: [{
+			item: "divinerpg:wizards_book"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8156620b",
+		type: "item",
+		team_reward: true,
+		item: "divinerpg:arcanium",
+		count: 4
+	}]
+}

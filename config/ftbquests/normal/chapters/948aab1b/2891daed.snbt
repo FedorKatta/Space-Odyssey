@@ -1,0 +1,21 @@
+{
+	x: -52.5d,
+	y: 2.5d,
+	dependencies: [
+		"35396d91"
+	],
+	tasks: [{
+		uid: "48827104",
+		type: "item",
+		items: [{
+			item: "divinerpg:eden_soul"
+		}],
+		count: 40L
+	}],
+	rewards: [{
+		uid: "6ff92657",
+		type: "item",
+		item: "divinerpg:eden_soul",
+		count: 8
+	}]
+}

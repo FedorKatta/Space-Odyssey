@@ -1,0 +1,23 @@
+{
+	x: -54.0d,
+	y: 2.5d,
+	shape: "hexagon",
+	dependencies: [
+		"cb30f418"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "35e5187b",
+		type: "item",
+		items: [{
+			item: "divinerpg:divine_rock"
+		}],
+		count: 10L
+	}],
+	rewards: [{
+		uid: "3ebee507",
+		type: "item",
+		item: "divinerpg:eden_dust",
+		count: 4
+	}]
+}

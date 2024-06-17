@@ -1,0 +1,21 @@
+{
+	x: -45.0d,
+	y: 2.5d,
+	dependencies: [
+		"f812f910"
+	],
+	tasks: [{
+		uid: "1bbb12a7",
+		type: "item",
+		items: [{
+			item: "divinerpg:wildwood_fragments"
+		}],
+		count: 40L
+	}],
+	rewards: [{
+		uid: "03f78b72",
+		type: "item",
+		item: "divinerpg:wildwood_gem",
+		count: 2
+	}]
+}

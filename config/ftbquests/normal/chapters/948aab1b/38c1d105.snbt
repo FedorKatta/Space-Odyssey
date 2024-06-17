@@ -1,0 +1,22 @@
+{
+	x: -64.5d,
+	y: 7.0d,
+	dependencies: [
+		"1d4228b1"
+	],
+	tasks: [{
+		uid: "c92a5871",
+		type: "item",
+		items: [{
+			item: "divinerpg:bluefire_bow"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "6fc931ca",
+		type: "item",
+		item: "divinerpg:ice_stone",
+		count: 2
+	}]
+}

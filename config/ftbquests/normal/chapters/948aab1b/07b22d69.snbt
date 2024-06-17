@@ -1,0 +1,23 @@
+{
+	x: -30.0d,
+	y: -0.5d,
+	dependencies: [
+		"4feb0be0"
+	],
+	tasks: [{
+		uid: "0bdd11c0",
+		type: "item",
+		items: [{
+			item: "divinerpg:halite_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "4b969a30",
+		type: "item",
+		team_reward: true,
+		item: "divinerpg:arcanium",
+		count: 2
+	}]
+}

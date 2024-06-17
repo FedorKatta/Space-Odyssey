@@ -1,0 +1,22 @@
+{
+	x: -27.0d,
+	y: -2.0d,
+	dependencies: [
+		"4feb0be0"
+	],
+	tasks: [{
+		uid: "b41ea66f",
+		type: "item",
+		items: [{
+			item: "divinerpg:karot_crystal"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "95c288fd",
+		type: "item",
+		item: "divinerpg:mortum_soul",
+		count: 4
+	}]
+}

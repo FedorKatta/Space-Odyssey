@@ -1,0 +1,21 @@
+{
+	x: -39.0d,
+	y: 2.5d,
+	dependencies: [
+		"830b9a84"
+	],
+	tasks: [{
+		uid: "f773a5be",
+		type: "item",
+		items: [{
+			item: "divinerpg:apalachia_fragments"
+		}],
+		count: 40L
+	}],
+	rewards: [{
+		uid: "d1638a83",
+		type: "item",
+		item: "divinerpg:apalachia_gem",
+		count: 2
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: -61.5d,
+	y: 4.0d,
+	dependencies: [
+		"7d19cb47"
+	],
+	tasks: [{
+		uid: "4b0dd687",
+		type: "item",
+		items: [{
+			item: "divinerpg:rupee_shickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "559cd0f1",
+		type: "item",
+		item: "divinerpg:rupee_leggings"
+	}]
+}

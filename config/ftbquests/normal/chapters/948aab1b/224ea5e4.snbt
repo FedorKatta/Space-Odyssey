@@ -1,0 +1,20 @@
+{
+	x: -19.5d,
+	y: 4.0d,
+	dependencies: [
+		"d3d4b4af"
+	],
+	tasks: [{
+		uid: "8c92aa0c",
+		type: "item",
+		items: [{
+			item: "divinerpg:amthirmis_lump"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "4e81507d",
+		type: "item",
+		item: "divinerpg:amthirmis_disk"
+	}]
+}

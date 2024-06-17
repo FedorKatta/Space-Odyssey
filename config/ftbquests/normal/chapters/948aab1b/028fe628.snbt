@@ -1,0 +1,32 @@
+{
+	icon: {
+		id: "thermalexpansion:morb",
+		tag: {
+			Generic: 1b,
+			id: "divinerpg:hive_queen"
+		}
+	},
+	x: -18.0d,
+	y: 4.0d,
+	dependencies: [
+		"224ea5e4"
+	],
+	tasks: [{
+		uid: "2e2733a3",
+		type: "kill",
+		icon: {
+			id: "thermalexpansion:morb",
+			tag: {
+				Generic: 1b,
+				id: "divinerpg:hive_queen"
+			}
+		},
+		entity: "divinerpg:hive_queen",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "7522d7f9",
+		type: "item",
+		item: "divinerpg:degraded_chestplate"
+	}]
+}

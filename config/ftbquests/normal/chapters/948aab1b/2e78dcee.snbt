@@ -1,0 +1,23 @@
+{
+	x: -63.0d,
+	y: 1.0d,
+	dependencies: [
+		"b6f3f42a"
+	],
+	dependency_requirement: "one_completed",
+	tasks: [{
+		uid: "eb77be1c",
+		type: "item",
+		items: [{
+			item: "divinerpg:realmite_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "b3fef173",
+		type: "item",
+		item: "divinerpg:realmite_ingot",
+		count: 4
+	}]
+}

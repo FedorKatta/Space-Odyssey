@@ -1,0 +1,32 @@
+{
+	icon: {
+		id: "thermalexpansion:morb",
+		tag: {
+			Generic: 1b,
+			id: "divinerpg:wreck"
+		}
+	},
+	x: -16.5d,
+	y: 7.0d,
+	dependencies: [
+		"c070894d"
+	],
+	tasks: [{
+		uid: "de998903",
+		type: "kill",
+		icon: {
+			id: "thermalexpansion:morb",
+			tag: {
+				Generic: 1b,
+				id: "divinerpg:wreck"
+			}
+		},
+		entity: "divinerpg:wreck",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "962dc2f0",
+		type: "item",
+		item: "divinerpg:heliosis_hammer"
+	}]
+}

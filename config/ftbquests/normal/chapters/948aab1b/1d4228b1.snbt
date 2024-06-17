@@ -1,0 +1,20 @@
+{
+	x: -64.5d,
+	y: 5.5d,
+	dependencies: [
+		"f413e568"
+	],
+	tasks: [{
+		uid: "b106aa51",
+		type: "item",
+		items: [{
+			item: "divinerpg:ice_stone"
+		}],
+		count: 3L
+	}],
+	rewards: [{
+		uid: "7fd1273f",
+		type: "item",
+		item: "divinerpg:serenade_of_ice"
+	}]
+}

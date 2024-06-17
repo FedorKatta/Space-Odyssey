@@ -1,0 +1,22 @@
+{
+	x: -27.0d,
+	y: 1.0d,
+	dependencies: [
+		"d1598d25"
+	],
+	tasks: [{
+		uid: "c763af95",
+		type: "item",
+		items: [{
+			item: "divinerpg:halite_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7c5b6d69",
+		type: "item",
+		item: "divinerpg:divine_shards",
+		count: 2
+	}]
+}

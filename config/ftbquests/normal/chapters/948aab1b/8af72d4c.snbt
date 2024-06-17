@@ -1,0 +1,23 @@
+{
+	x: -60.0d,
+	y: 5.5d,
+	dependencies: [
+		"c820adc5"
+	],
+	tasks: [{
+		uid: "42f8df15",
+		type: "item",
+		items: [{
+			item: "divinerpg:infernal_flame"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "47072ad1",
+		type: "item",
+		team_reward: true,
+		item: "divinerpg:inferno_sword",
+		count: 4
+	}]
+}

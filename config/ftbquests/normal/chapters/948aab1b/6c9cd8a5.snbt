@@ -1,0 +1,22 @@
+{
+	x: -51.0d,
+	y: 7.0d,
+	dependencies: [
+		"fa1b7637"
+	],
+	tasks: [{
+		uid: "d0046439",
+		type: "item",
+		items: [{
+			item: "divinerpg:eden_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9df5884c",
+		type: "item",
+		item: "divinerpg:eden_arrow",
+		count: 16
+	}]
+}

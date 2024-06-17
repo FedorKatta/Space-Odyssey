@@ -1,0 +1,22 @@
+{
+	x: -28.5d,
+	y: -0.5d,
+	dependencies: [
+		"d1598d25"
+	],
+	tasks: [{
+		uid: "4561beb5",
+		type: "item",
+		items: [{
+			item: "divinerpg:densos_crystal"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "f80f3485",
+		type: "item",
+		item: "divinerpg:mortum_soul",
+		count: 4
+	}]
+}

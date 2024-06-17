@@ -1,0 +1,33 @@
+{
+	icon: {
+		id: "thermalexpansion:morb",
+		tag: {
+			Generic: 1b,
+			id: "divinerpg:karot"
+		}
+	},
+	x: -13.5d,
+	y: 5.5d,
+	dependencies: [
+		"87aaee5b"
+	],
+	tasks: [{
+		uid: "b13111b9",
+		type: "kill",
+		icon: {
+			id: "thermalexpansion:morb",
+			tag: {
+				Generic: 1b,
+				id: "divinerpg:karos"
+			}
+		},
+		entity: "divinerpg:karos",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "0b7e3c36",
+		type: "item",
+		item: "divinerpg:karos_lump",
+		count: 2
+	}]
+}

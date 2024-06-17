@@ -1,0 +1,23 @@
+{
+	x: -42.0d,
+	y: 2.5d,
+	shape: "hexagon",
+	dependencies: [
+		"e5ce7960"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "80d4412f",
+		type: "item",
+		items: [{
+			item: "divinerpg:wildwood_block"
+		}],
+		count: 10L
+	}],
+	rewards: [{
+		uid: "af12ecb4",
+		type: "item",
+		item: "divinerpg:apalachia_dust",
+		count: 4
+	}]
+}

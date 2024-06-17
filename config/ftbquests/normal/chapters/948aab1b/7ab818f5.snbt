@@ -1,0 +1,22 @@
+{
+	x: -39.0d,
+	y: 7.0d,
+	dependencies: [
+		"0febe9d8"
+	],
+	tasks: [{
+		uid: "e11c1b68",
+		type: "item",
+		items: [{
+			item: "divinerpg:apalachia_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "85fa3995",
+		type: "item",
+		item: "divinerpg:apalachia_slicer",
+		count: 16
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: -28.5d,
+	y: 2.5d,
+	dependencies: [
+		"cf7a96d0"
+	],
+	tasks: [{
+		uid: "52b8ef2a",
+		type: "item",
+		items: [{
+			item: "divinerpg:mortum_soul"
+		}],
+		count: 12L
+	}],
+	rewards: [{
+		uid: "71ac8f14",
+		type: "item",
+		item: "divinerpg:mortum_soul",
+		count: 8
+	}]
+}

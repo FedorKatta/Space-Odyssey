@@ -1,0 +1,23 @@
+{
+	x: -57.0d,
+	y: 2.5d,
+	dependencies: [
+		"a9e6a2f8"
+	],
+	tasks: [{
+		uid: "1254f1d0",
+		type: "item",
+		items: [{
+			item: "divinerpg:twilight_clock"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8ce6ac06",
+		type: "item",
+		team_reward: true,
+		item: "minecraft:gold_ingot",
+		count: 16
+	}]
+}

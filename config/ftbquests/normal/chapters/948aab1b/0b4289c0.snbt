@@ -1,0 +1,23 @@
+{
+	x: -58.5d,
+	y: 4.0d,
+	dependencies: [
+		"c820adc5"
+	],
+	tasks: [{
+		uid: "5b1a4fd8",
+		type: "item",
+		items: [{
+			item: "divinerpg:call_of_the_watcher"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9ac54d98",
+		type: "item",
+		team_reward: true,
+		item: "divinerpg:bluefire_stone",
+		count: 2
+	}]
+}

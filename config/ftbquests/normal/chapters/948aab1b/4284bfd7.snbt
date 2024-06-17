@@ -1,0 +1,22 @@
+{
+	x: -31.5d,
+	y: 2.5d,
+	dependencies: [
+		"33ad6c54"
+	],
+	tasks: [{
+		uid: "8d5b51b6",
+		type: "item",
+		items: [{
+			item: "divinerpg:skythern_heart"
+		}],
+		count: 10L
+	}],
+	rewards: [{
+		uid: "6bc22617",
+		type: "item",
+		team_reward: true,
+		item: "divinerpg:skythern_chunk",
+		count: 2
+	}]
+}

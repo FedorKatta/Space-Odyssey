@@ -1,0 +1,21 @@
+{
+	x: -60.0d,
+	y: 10.0d,
+	dependencies: [
+		"655b8909"
+	],
+	tasks: [{
+		uid: "91e989c7",
+		type: "item",
+		items: [{
+			item: "divinerpg:collector"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "9c8eb04e",
+		type: "item",
+		item: "divinerpg:raw_arcanium",
+		count: 4
+	}]
+}

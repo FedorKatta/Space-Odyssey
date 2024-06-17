@@ -1,0 +1,25 @@
+{
+	icon: {
+		id: "thermalexpansion:morb",
+		tag: {
+			Generic: 1b,
+			id: "divinerpg:raglok"
+		}
+	},
+	x: -19.5d,
+	y: 7.0d,
+	dependencies: [
+		"3aed4ccc"
+	],
+	tasks: [{
+		uid: "b6d8adc9",
+		type: "kill",
+		entity: "divinerpg:raglok",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "1ea56d27",
+		type: "item",
+		item: "divinerpg:karos_backsword"
+	}]
+}

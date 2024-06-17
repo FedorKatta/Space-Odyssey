@@ -1,0 +1,23 @@
+{
+	x: -60.0d,
+	y: 8.5d,
+	shape: "hexagon",
+	dependencies: [
+		"15371ceb"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "941d7e90",
+		type: "item",
+		items: [{
+			item: "divinerpg:arcana_portal_frame"
+		}],
+		count: 12L
+	}],
+	rewards: [{
+		uid: "46421d65",
+		type: "item",
+		item: "divinerpg:weak_arcana_potion",
+		count: 4
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	x: -45.0d,
+	y: 4.0d,
+	dependencies: [
+		"3b19d9b1"
+	],
+	tasks: [{
+		uid: "7cd18b0a",
+		type: "item",
+		items: [{
+			item: "divinerpg:wildwood_chunk"
+		}]
+	}],
+	rewards: [{
+		uid: "18b16978",
+		type: "item",
+		team_reward: true,
+		item: "divinerpg:wildwood_chunk",
+		count: 2
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: -63.0d,
+	y: 4.0d,
+	dependencies: [
+		"257f1bbf"
+	],
+	tasks: [{
+		uid: "28c5756e",
+		type: "item",
+		items: [{
+			item: "divinerpg:rupee_ingot"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "6e8c200d",
+		type: "item",
+		item: "divinerpg:rupee_chestplate"
+	}]
+}

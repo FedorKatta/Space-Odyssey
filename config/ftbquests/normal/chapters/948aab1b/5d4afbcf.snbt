@@ -1,0 +1,23 @@
+{
+	x: -31.5d,
+	y: -2.0d,
+	dependencies: [
+		"c19ebd28"
+	],
+	tasks: [{
+		uid: "91ac647d",
+		type: "item",
+		items: [{
+			item: "divinerpg:halite_blade"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1a34d6ad",
+		type: "item",
+		team_reward: true,
+		item: "divinerpg:fury_arrow",
+		count: 16
+	}]
+}

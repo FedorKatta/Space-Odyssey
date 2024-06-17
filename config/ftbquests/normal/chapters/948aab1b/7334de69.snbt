@@ -1,0 +1,21 @@
+{
+	x: -51.0d,
+	y: 2.5d,
+	dependencies: [
+		"2891daed"
+	],
+	tasks: [{
+		uid: "627e18a8",
+		type: "item",
+		items: [{
+			item: "divinerpg:eden_fragments"
+		}],
+		count: 40L
+	}],
+	rewards: [{
+		uid: "5336ea43",
+		type: "item",
+		item: "divinerpg:eden_gem",
+		count: 2
+	}]
+}

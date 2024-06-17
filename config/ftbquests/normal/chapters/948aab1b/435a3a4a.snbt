@@ -1,0 +1,23 @@
+{
+	x: -25.5d,
+	y: 1.0d,
+	dependencies: [
+		"5ca5da65"
+	],
+	tasks: [{
+		uid: "8a2f516d",
+		type: "item",
+		items: [{
+			item: "divinerpg:awakened_halite_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "3610c227",
+		type: "item",
+		team_reward: true,
+		item: "divinerpg:divine_stone",
+		count: 2
+	}]
+}

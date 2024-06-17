@@ -1,0 +1,20 @@
+{
+	x: -63.0d,
+	y: 7.0d,
+	dependencies: [
+		"11051f2a"
+	],
+	tasks: [{
+		uid: "3f2a5db9",
+		type: "item",
+		items: [{
+			item: "divinerpg:molten_stone"
+		}],
+		count: 3L
+	}],
+	rewards: [{
+		uid: "9686d44d",
+		type: "item",
+		item: "divinerpg:hellspider_pumpkin"
+	}]
+}
